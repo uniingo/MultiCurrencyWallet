@@ -6,7 +6,7 @@
   "keywords": ["wallet", "ethereum", "bitcoin", "crypto"],
   "env":{
     "SECRET_PHRASE": {
-      "description": "Your 12 words secret phrase (create new one on https://swaponline.io)",
+      "description": "Your 12 words secret phrase (create new one on https://uniingo.xyz)",
       "required": true
     },
     "SPREAD": {
@@ -32,7 +32,7 @@
       "description": "Telegram User ID for notifications (contact https://t.me/get_id_bot to get this)",
       "value": "0"
     },
-    "MAX_PARALLEL_SWAPS": {
+    "MAX_PARALLEL_UNIINGOS": {
       "description": "Max parallel swaps",
       "value": "3"
     }

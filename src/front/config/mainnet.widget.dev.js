@@ -3,7 +3,7 @@ import config from './mainnet'
 
 
 /*
-Only SWAP token will be... clean other
+Only UNIINGO token will be... clean other
 */
 const newERC20 = {}
 const erc20Token = (process.argv.length >= 5) ? process.argv[3] : '{#WIDGETTOKENCODE#}'

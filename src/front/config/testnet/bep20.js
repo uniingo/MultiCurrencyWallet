@@ -2,7 +2,7 @@ export default {
   swap: {
     address: '0x95388f104c78da5b424c18507494b993cfd9b45b',
     decimals: 18,
-    fullName: 'SWAP',
+    fullName: 'UNIINGO',
     canSwap: true,
   },
   usdt: {

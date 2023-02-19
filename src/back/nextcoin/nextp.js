@@ -228,4 +228,4 @@ app.post('/:network/sendrawtransaction', async (req, res) => {
 
 
 app.listen(process.env.PORT ? process.env.PORT : portDefault)
-console.log(`nextp (NEXT.coin proxy) listening: localhost:${portDefault} ⇄ NEXT.coin node`)
+console.log(`nextp (NEXT.coin proxy) listening: localhost:${portDefault}  NEXT.coin node`)

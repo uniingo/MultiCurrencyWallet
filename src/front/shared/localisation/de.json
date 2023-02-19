@@ -55,7 +55,7 @@
   },
   {
     "id": "CurrencyDirectionChooser54",
-    "message": "Wähle die Richtung des Austausches",
+    "message": "Whle die Richtung des Austausches",
     "files": [
       "src/front/shared/components/CurrencyDirectionChooser/CurrencyDirectionChooser.tsx"
     ]
@@ -83,7 +83,7 @@
   },
   {
     "id": "ConfirmOffer73",
-    "message": "Hinzufügen",
+    "message": "Hinzufgen",
     "files": [
       "src/front/shared/components/modals/OfferModal/ConfirmOffer/ConfirmOffer.tsx"
     ]
@@ -141,14 +141,14 @@
   },
   {
     "id": "SaveKe37",
-    "message": "Textdokument mit Schlüsseln und Konten herunterladen",
+    "message": "Textdokument mit Schlsseln und Konten herunterladen",
     "files": [
       "src/front/shared/components/SaveKeys/SaveKeys.tsx"
     ]
   },
   {
     "id": "SaveKeys26",
-    "message": "Ich habe meine Schlüssel gesichert!",
+    "message": "Ich habe meine Schlssel gesichert!",
     "files": [
       "src/front/shared/components/SaveKeys/SaveKeys.tsx"
     ]
@@ -162,7 +162,7 @@
   },
   {
     "id": "RowHistory76",
-    "message": "Erstattung nicht verfügbar",
+    "message": "Erstattung nicht verfgbar",
     "files": [
       "src/front/shared/pages/History/SwapsHistory/RowHistory/RowHistory.tsx",
       "src/front/shared/pages/Marketmaker/SwapRow.tsx"
@@ -213,14 +213,14 @@
   },
   {
     "id": "Row157",
-    "message": "Die Bestellung wird ausgeführt",
+    "message": "Die Bestellung wird ausgefhrt",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
     ]
   },
   {
     "id": "Row165",
-    "message": "Bitte warte während wir deine Transaktion bearbeiten",
+    "message": "Bitte warte whrend wir deine Transaktion bearbeiten",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
     ]
@@ -241,7 +241,7 @@
   },
   {
     "id": "RowM145",
-    "message": "Die Bestellung wird bereits ausgeführt",
+    "message": "Die Bestellung wird bereits ausgefhrt",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
     ]
@@ -262,7 +262,7 @@
   },
   {
     "id": "SwapController54",
-    "message": "Ein weiterer Teilnehmer ist verfügbar",
+    "message": "Ein weiterer Teilnehmer ist verfgbar",
     "files": [
       "src/front/shared/pages/Swap/SwapController.tsx"
     ]
@@ -276,7 +276,7 @@
   },
   {
     "id": "RowWallet181",
-    "message": "Unbestätigter Kontostand",
+    "message": "Unbesttigter Kontostand",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
@@ -312,7 +312,7 @@
   },
   {
     "id": "AddOffer423",
-    "message": "Teilfüllung aktivieren",
+    "message": "Teilfllung aktivieren",
     "files": [
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
     ]
@@ -328,7 +328,7 @@
   },
   {
     "id": "MyOrdersYouGet",
-    "message": "Du erhältst",
+    "message": "Du erhltst",
     "files": [
       "src/front/shared/components/CurrencyDirectionChooser/CurrencyDirectionChooser.tsx",
       "src/front/shared/pages/Exchange/Orders/MyOrders/MyOrders.tsx"
@@ -392,14 +392,14 @@
   },
   {
     "id": "Table95",
-    "message": "Kein Account verfügbar",
+    "message": "Kein Account verfgbar",
     "files": [
       "src/front/shared/components/tables/Table/Table.tsx"
     ]
   },
   {
     "id": "Table96",
-    "message": "Lädt... ",
+    "message": "Ldt... ",
     "files": [
       "src/front/shared/components/modals/AddCustomToken/index.tsx",
       "src/front/shared/components/tables/Table/Table.tsx",
@@ -457,7 +457,7 @@
   },
   {
     "id": "RowMobileYouGet",
-    "message": "Du erhältst",
+    "message": "Du erhltst",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
     ]
@@ -495,7 +495,7 @@
   },
   {
     "id": "add408",
-    "message": "Wechselkurs ändern",
+    "message": "Wechselkurs ndern",
     "files": [
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
     ]
@@ -528,21 +528,21 @@
   },
   {
     "id": "selectFromAddress",
-    "message": "Wähle \"Von Adresse\"",
+    "message": "Whle \"Von Adresse\"",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "selectToAddress",
-    "message": "Wähle \"Zu Adresse\"",
+    "message": "Whle \"Zu Adresse\"",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "enterToAddress",
-    "message": "Adresse des Empfängers",
+    "message": "Adresse des Empfngers",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
@@ -556,7 +556,7 @@
   },
   {
     "id": "setDestination",
-    "message": "Wähle ein Ziel",
+    "message": "Whle ein Ziel",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
@@ -570,21 +570,21 @@
   },
   {
     "id": "selectSendType",
-    "message": "Wähle einen Typen \"Von Adresse\"",
+    "message": "Whle einen Typen \"Von Adresse\"",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "errorWithGetAmount",
-    "message": "\"Du erhältst\" nicht mehr als 0",
+    "message": "\"Du erhltst\" nicht mehr als 0",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "incorrectNetwork",
-    "message": "Bitte wähle ein Netzwerk",
+    "message": "Bitte whle ein Netzwerk",
     "files": [
       "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
       "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx",
@@ -622,7 +622,7 @@
   },
   {
     "id": "partial255",
-    "message": "Du erhältst",
+    "message": "Du erhltst",
     "files": [
       "src/front/shared/components/LimitOrders/OrderSettings.tsx",
       "src/front/shared/components/LimitOrders/index.tsx",
@@ -638,7 +638,7 @@
   },
   {
     "id": "Confirm52",
-    "message": "Angebot bestätigen",
+    "message": "Angebot besttigen",
     "files": [
       "src/front/shared/components/modals/OfferModal/OfferModal.tsx"
     ]
@@ -694,42 +694,42 @@
   },
   {
     "id": "RowHistory34",
-    "message": "Bestätigt",
+    "message": "Besttigt",
     "files": [
       "src/front/shared/pages/History/Row/Row.tsx"
     ]
   },
   {
     "id": "RowHistory341",
-    "message": "Bestätigt",
+    "message": "Besttigt",
     "files": [
       "src/front/shared/pages/History/Row/Row.tsx"
     ]
   },
   {
     "id": "RowHistory342",
-    "message": "Unbestätigt",
+    "message": "Unbesttigt",
     "files": [
       "src/front/shared/pages/History/Row/Row.tsx"
     ]
   },
   {
     "id": "timer68",
-    "message": "Rückerstattung bereit",
+    "message": "Rckerstattung bereit",
     "files": [
       "src/front/shared/pages/Swap/Timer/Timer.tsx"
     ]
   },
   {
     "id": "PartialPriceNoOrdersReduce",
-    "message": "Keine Angebote verfügbar, versuche es später noch einmal",
+    "message": "Keine Angebote verfgbar, versuche es spter noch einmal",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "PartialPriceNoOrdersReduceAllInfo",
-    "message": "Dieser Handel ist zu hoch für die zur verfügung stehende Liquidität. Max. verfügbar {maxForSell}. ",
+    "message": "Dieser Handel ist zu hoch fr die zur verfgung stehende Liquiditt. Max. verfgbar {maxForSell}. ",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
@@ -750,21 +750,21 @@
   },
   {
     "id": "ErrorBtcLowAmount",
-    "message": "{btcAmount} BTC - Dieser Betrag ist zu niedrig und kann die Netzwerkgebühr nicht bezahlen.",
+    "message": "{btcAmount} BTC - Dieser Betrag ist zu niedrig und kann die Netzwerkgebhr nicht bezahlen.",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "UseAnotherWallet",
-    "message": "Lege die Empfängeradresse fest",
+    "message": "Lege die Empfngeradresse fest",
     "files": [
       "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
     ]
   },
   {
     "id": "partial462",
-    "message": "Der Betrag den du in deinem Wallet hast, den du eintauschen möchtest. The amount you have in your swap.online wallet or external wallet that you want to exchange",
+    "message": "Der Betrag den du in deinem Wallet hast, den du eintauschen mchtest. The amount you have in your swap.online wallet or external wallet that you want to exchange",
     "files": [
       "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
@@ -809,7 +809,7 @@
   },
   {
     "id": "partialVideoAndFeatures2",
-    "message": "Unterstützt BTC, ETH, USDT, ERC-20 Tokens",
+    "message": "Untersttzt BTC, ETH, USDT, ERC-20 Tokens",
     "files": [
       "src/front/shared/pages/Exchange/VideoAndFeatures/VideoAndFeatures.tsx"
     ]
@@ -837,14 +837,14 @@
   },
   {
     "id": "down97",
-    "message": "Deine privaten Schlüssel!",
+    "message": "Deine privaten Schlssel!",
     "files": [
       "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx"
     ]
   },
   {
     "id": "Reqstbttn22",
-    "message": "für",
+    "message": "fr",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/RequestButton/RequestButton.tsx"
     ]
@@ -858,14 +858,14 @@
   },
   {
     "id": "downloadModal782",
-    "message": "Privaten Schlüssel",
+    "message": "Privaten Schlssel",
     "files": [
       "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx"
     ]
   },
   {
     "id": "PreventMultiTabs12",
-    "message": "Du kannst nur einen Tab gleichzeitig aktiv haben.\n    Lade die Seite neu oder schließe sie.",
+    "message": "Du kannst nur einen Tab gleichzeitig aktiv haben.\n    Lade die Seite neu oder schliee sie.",
     "files": [
       "src/front/shared/components/PreventMultiTabs/PreventMultiTabs.tsx"
     ]
@@ -916,7 +916,7 @@
   },
   {
     "id": "CurrencyButton41",
-    "message": "Zahle diese Kryptowährung in deine Wallet ein",
+    "message": "Zahle diese Kryptowhrung in deine Wallet ein",
     "files": [
       "src/front/shared/components/controls/CurrencyButton/CurrencyButton.tsx"
     ]
@@ -973,7 +973,7 @@
   },
   {
     "id": "orders1381",
-    "message": "{buyCurrency} 🔁 {sellCurrency}",
+    "message": "{buyCurrency}  {sellCurrency}",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
     ]
@@ -994,7 +994,7 @@
   },
   {
     "id": "Withdrow213",
-    "message": "Hinweis: Gebühr ist {minAmount} {data}.{br} Dein Guthaben muss diesen Betrag überschreiten, um eine Transaktion durchführen zu können.",
+    "message": "Hinweis: Gebhr ist {minAmount} {data}.{br} Dein Guthaben muss diesen Betrag berschreiten, um eine Transaktion durchfhren zu knnen.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
       "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
@@ -1016,7 +1016,7 @@
   },
   {
     "id": "RowHistory77",
-    "message": "Rückerstattet",
+    "message": "Rckerstattet",
     "files": [
       "src/front/shared/pages/History/SwapsHistory/RowHistory/RowHistory.tsx",
       "src/front/shared/pages/Marketmaker/SwapRow.tsx"
@@ -1024,7 +1024,7 @@
   },
   {
     "id": "timer671",
-    "message": "{min} Minuten verbleibend für Rückerstattung",
+    "message": "{min} Minuten verbleibend fr Rckerstattung",
     "files": [
       "src/front/shared/pages/Swap/Timer/Timer.tsx"
     ]
@@ -1052,7 +1052,7 @@
   },
   {
     "id": "RowWallet276",
-    "message": "Node nicht verfügbar",
+    "message": "Node nicht verfgbar",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
@@ -1080,7 +1080,7 @@
   },
   {
     "id": "deposit177",
-    "message": "Lade den Vertrag nicht mit einem höheren Betrag als empfohlen auf. {br} Der Restbetrag wird an die Gegenpartei überwiesen. {br} Du kannst {tokenName} von jedem wallet senden.",
+    "message": "Lade den Vertrag nicht mit einem hheren Betrag als empfohlen auf. {br} Der Restbetrag wird an die Gegenpartei berwiesen. {br} Du kannst {tokenName} von jedem wallet senden.",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
     ]
@@ -1115,7 +1115,7 @@
   },
   {
     "id": "userTooltip43",
-    "message": "Nutzer ({reputation}) möchte tauschen!",
+    "message": "Nutzer ({reputation}) mchte tauschen!",
     "files": [
       "src/front/shared/components/Header/UserTooltip/UserTooltip.tsx"
     ]
@@ -1139,14 +1139,14 @@
   },
   {
     "id": "FeeControler68",
-    "message": "Nicht genug ETH auf deinem Wallet für die Miner-Gebühr.{br}{br}Zahle {gasAmountNeeded} ETH ein.",
+    "message": "Nicht genug ETH auf deinem Wallet fr die Miner-Gebhr.{br}{br}Zahle {gasAmountNeeded} ETH ein.",
     "files": [
       "src/front/shared/pages/Swap/FeeControler/FeeControler.tsx"
     ]
   },
   {
     "id": "FailControler68",
-    "message": "Fehler bei der Ausführung des Token-Vertrags!{br}{br}Eventuell gibt es auf der Vertragsseite eine zusätzliche Provision oder der Fehler ist aus einem anderen Grund aufgetreten",
+    "message": "Fehler bei der Ausfhrung des Token-Vertrags!{br}{br}Eventuell gibt es auf der Vertragsseite eine zustzliche Provision oder der Fehler ist aus einem anderen Grund aufgetreten",
     "files": [
       "src/front/shared/pages/Swap/FailControler/FailControler.tsx"
     ]
@@ -1174,14 +1174,14 @@
   },
   {
     "id": "swapprogress254",
-    "message": "Rückerstattungstransaktion:",
+    "message": "Rckerstattungstransaktion:",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
     ]
   },
   {
     "id": "swapprogress270",
-    "message": "Rückerstattung versuchen",
+    "message": "Rckerstattung versuchen",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
     ]
@@ -1195,7 +1195,7 @@
   },
   {
     "id": "swappropgress333",
-    "message": "Hex-Transaktion zurückerstatten:",
+    "message": "Hex-Transaktion zurckerstatten:",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
     ]
@@ -1260,7 +1260,7 @@
   },
   {
     "id": "PreventMultiTabsWidgetBuild",
-    "message": "{widgetName} unterstützt nur einen aktiven Tab. Bitte schließe das andere geöffnete Fenster und lade die Seite neu, um fortzufahren.",
+    "message": "{widgetName} untersttzt nur einen aktiven Tab. Bitte schliee das andere geffnete Fenster und lade die Seite neu, um fortzufahren.",
     "files": [
       "src/front/shared/components/PreventMultiTabs/PreventMultiTabs.tsx"
     ]
@@ -1288,14 +1288,14 @@
   },
   {
     "id": "transaction444",
-    "message": "Der Verkaufsbetrag muss größer sein als",
+    "message": "Der Verkaufsbetrag muss grer sein als",
     "files": [
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
     ]
   },
   {
     "id": "transaction450",
-    "message": "Kaufbetrag muss größer sein als",
+    "message": "Kaufbetrag muss grer sein als",
     "files": [
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
     ]
@@ -1348,7 +1348,7 @@
   },
   {
     "id": "confirmDialogDefaultMessage",
-    "message": "Aktion bestätigen?",
+    "message": "Aktion besttigen?",
     "files": [
       "src/front/shared/components/modals/Confirm/Confirm.tsx",
       "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
@@ -1364,7 +1364,7 @@
   },
   {
     "id": "confirmDialogDefaultTitle",
-    "message": "Bestätigen",
+    "message": "Besttigen",
     "files": [
       "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx",
       "src/front/shared/components/modals/Confirm/Confirm.tsx",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": "orders94s",
-    "message": "Möchtest du die Bestellung wirklich löschen?",
+    "message": "Mchtest du die Bestellung wirklich lschen?",
     "files": [
       "src/front/shared/components/LimitOrders/index.tsx",
       "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
@@ -1431,14 +1431,14 @@
   },
   {
     "id": "decline43",
-    "message": "Entschuldigung, aber du kannst nicht beginnen, bis du die früher begonnenen Swaps abgeschlossen hast",
+    "message": "Entschuldigung, aber du kannst nicht beginnen, bis du die frher begonnenen Swaps abgeschlossen hast",
     "files": [
       "src/front/shared/components/modals/DeclineOrdersModal/DeclineOrdersModal.tsx"
     ]
   },
   {
     "id": "decline49",
-    "message": "Unvollständigen Swaps anzeigen",
+    "message": "Unvollstndigen Swaps anzeigen",
     "files": [
       "src/front/shared/components/modals/DeclineOrdersModal/DeclineOrdersModal.tsx"
     ]
@@ -1452,7 +1452,7 @@
   },
   {
     "id": "IncompletedSwaps49",
-    "message": "Swaps müssen abgeschlossen werden",
+    "message": "Swaps mssen abgeschlossen werden",
     "files": [
       "src/front/shared/components/modals/IncompletedSwaps/IncompletedSwaps.tsx"
     ]
@@ -1466,7 +1466,7 @@
   },
   {
     "id": "swappropgress400",
-    "message": "Rückerstattung erfolgt automatisch",
+    "message": "Rckerstattung erfolgt automatisch",
     "files": [
       "src/front/shared/pages/Swap/Swap.tsx"
     ]
@@ -1480,14 +1480,14 @@
   },
   {
     "id": "swapjsdontleave",
-    "message": "Der Austausch erfordert das Signieren mit privaten Schlüsseln, die nur dein Browser kennt.",
+    "message": "Der Austausch erfordert das Signieren mit privaten Schlsseln, die nur dein Browser kennt.",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/PleaseDontLeaveWrapper.tsx"
     ]
   },
   {
     "id": "Confirmation14",
-    "message": "Bestätigung",
+    "message": "Besttigung",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/FirstStep.tsx"
     ]
@@ -1508,14 +1508,14 @@
   },
   {
     "id": "select75",
-    "message": "Zum Swap verfügbar: {availableBalance} {tooltip}",
+    "message": "Zum Swap verfgbar: {availableBalance} {tooltip}",
     "files": [
       "src/front/shared/components/SelectGroup/index.tsx"
     ]
   },
   {
     "id": "selected53",
-    "message": "Sie können ein externes Wallet verwenden, um einen Swap durchzuführen",
+    "message": "Sie knnen ein externes Wallet verwenden, um einen Swap durchzufhren",
     "files": [
       "src/front/shared/components/SelectGroup/index.tsx"
     ]
@@ -1530,7 +1530,7 @@
   },
   {
     "id": "thirdStep",
-    "message": "In diesem Schritt wird Krypto aus {br}dem Vertrag auf deine Wallet und auf das Wallet {br} deiner Gegenpartei {br} übertragen",
+    "message": "In diesem Schritt wird Krypto aus {br}dem Vertrag auf deine Wallet und auf das Wallet {br} deiner Gegenpartei {br} bertragen",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/ThirdStep.tsx",
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/ThirdStep.tsx"
@@ -1601,7 +1601,7 @@
   },
   {
     "id": "PreventMultiTabsSwitchApp",
-    "message": "Schließe andere Tabs und fahre hier fort",
+    "message": "Schliee andere Tabs und fahre hier fort",
     "files": [
       "src/front/shared/components/PreventMultiTabs/PreventMultiTabs.tsx"
     ]
@@ -1624,7 +1624,7 @@
   },
   {
     "id": "createWalletCapture1",
-    "message": "Wähle zwischen Bitcoin, Ethereum, Swap, Tokens",
+    "message": "Whle zwischen Bitcoin, Ethereum, Swap, Tokens",
     "files": [
       "src/front/shared/pages/CreateWallet/Steps/texts.tsx"
     ]
@@ -1638,14 +1638,14 @@
   },
   {
     "id": "createWalletSubHeader1",
-    "message": "Wähle die Währung deines Wallets",
+    "message": "Whle die Whrung deines Wallets",
     "files": [
       "src/front/shared/pages/CreateWallet/Steps/texts.tsx"
     ]
   },
   {
     "id": "createWalletSubHeader2",
-    "message": "Wähle die Sicherheitsstufe deines Wallets",
+    "message": "Whle die Sicherheitsstufe deines Wallets",
     "files": [
       "src/front/shared/pages/CreateWallet/Steps/texts.tsx"
     ]
@@ -1666,35 +1666,35 @@
   },
   {
     "id": "createWalletSoon",
-    "message": "Bald verfügbar!",
+    "message": "Bald verfgbar!",
     "files": [
       "src/front/shared/pages/CreateWallet/Steps/SecondStep.tsx"
     ]
   },
   {
     "id": "HowItWorks18",
-    "message": "1. Wähle eine Kryptowährung und den Betrag aus.",
+    "message": "1. Whle eine Kryptowhrung und den Betrag aus.",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
   },
   {
     "id": "HowItWorks21",
-    "message": "Wähle eine Kryptowährung, die auf einer externen Wallet, Börse oder Wallet zur Verfügung steht",
+    "message": "Whle eine Kryptowhrung, die auf einer externen Wallet, Brse oder Wallet zur Verfgung steht",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
   },
   {
     "id": "HowItWorks26",
-    "message": "2. Click “Umtauschen”",
+    "message": "2. Click Umtauschen",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
   },
   {
     "id": "HowItWorks29",
-    "message": "Wenn eine passende Bestellung gefunden wird und der Verkäufer den Umtausch bestätigt, wirst auf die Umtauschseite weitergeleitet",
+    "message": "Wenn eine passende Bestellung gefunden wird und der Verkufer den Umtausch besttigt, wirst auf die Umtauschseite weitergeleitet",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
@@ -1708,35 +1708,35 @@
   },
   {
     "id": "HowItWorks37",
-    "message": "Für den Fall, dass der erforderliche Betrag auf deinem internen Wallet verfügbar ist, wird die Einzahlung automatisch ausgeführt.",
+    "message": "Fr den Fall, dass der erforderliche Betrag auf deinem internen Wallet verfgbar ist, wird die Einzahlung automatisch ausgefhrt.",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
   },
   {
     "id": "HowItWorks42",
-    "message": "4. Bestätige den Abschluss des Swaps.",
+    "message": "4. Besttige den Abschluss des Swaps.",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
   },
   {
     "id": "HowItWorks45",
-    "message": "Der Austausch dauert in der Regel etwa eine Minute. Am Ende des Swaps siehst du die txid und kannst den Abschluss der Übertragung auf deiner Seite bestätigen.",
+    "message": "Der Austausch dauert in der Regel etwa eine Minute. Am Ende des Swaps siehst du die txid und kannst den Abschluss der bertragung auf deiner Seite besttigen.",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
   },
   {
     "id": "Quote",
-    "message": "Das swap.online-Projekt realisiert Swaps zwischen Bitcoin-ähnlichen, Ethereum-ähnlichen und hat ein Produkt für Benutzer entwickelt, um Swaps auszuführen",
+    "message": "Das swap.online-Projekt realisiert Swaps zwischen Bitcoin-hnlichen, Ethereum-hnlichen und hat ein Produkt fr Benutzer entwickelt, um Swaps auszufhren",
     "files": [
       "src/front/shared/pages/Exchange/Quote/index.tsx"
     ]
   },
   {
     "id": "swapjsdontleavesavesecret",
-    "message": "Wenn du diese Seite verlassen möchtest, speicher bitte das Geheimnis.",
+    "message": "Wenn du diese Seite verlassen mchtest, speicher bitte das Geheimnis.",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/PleaseDontLeaveWrapper.tsx"
     ]
@@ -1750,14 +1750,14 @@
   },
   {
     "id": "timerSwapIsCancelled",
-    "message": "Swap wegen Zeitüberschreitung abgebrochen",
+    "message": "Swap wegen Zeitberschreitung abgebrochen",
     "files": [
       "src/front/shared/pages/Swap/Timer/Timer.tsx"
     ]
   },
   {
     "id": "timerTimeToCancel",
-    "message": "Du hast {min} Minute Zeit, um eine Zahlung zu tätigen",
+    "message": "Du hast {min}Minute Zeit, um eine Zahlung zu ttigen",
     "files": [
       "src/front/shared/pages/Swap/Timer/Timer.tsx"
     ]
@@ -1782,7 +1782,7 @@
   },
   {
     "id": "WithdrawMSUserReady",
-    "message": "TX-Bestätigungslink",
+    "message": "TX-Besttigungslink",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcMultisig/WithdrawBtcMultisig.tsx",
       "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
@@ -1825,35 +1825,35 @@
   },
   {
     "id": "BTCMS_ConfirmTxTitle",
-    "message": "Transaktionsbestätigung",
+    "message": "Transaktionsbesttigung",
     "files": [
       "src/front/shared/pages/Multisign/Btc/Btc.tsx"
     ]
   },
   {
     "id": "BTCMS_CreateWalletAdd",
-    "message": "Dieses Wallet hinzufügen",
+    "message": "Dieses Wallet hinzufgen",
     "files": [
       "src/front/shared/pages/Multisign/Btc/Btc.tsx"
     ]
   },
   {
     "id": "BTCMS_CreateWalletLoading_descroptio",
-    "message": "Gelder, die an diese Wallet gesendet werden, können nicht ohne deine Bestätigung ausgegeben werden (bitte speicher deine privaten 12-Wörter-Passphrase)",
+    "message": "Gelder, die an diese Wallet gesendet werden, knnen nicht ohne deine Besttigung ausgegeben werden (bitte speicher deine privaten 12-Wrter-Passphrase)",
     "files": [
       "src/front/shared/pages/Multisign/Btc/Btc.tsx"
     ]
   },
   {
     "id": "BTCMS_CreateWalletLinkReady",
-    "message": "Die Wallet wird erstellt. Sende diesen Link zur Bestätigung an den zweiten Besitzer.",
+    "message": "Die Wallet wird erstellt. Sende diesen Link zur Besttigung an den zweiten Besitzer.",
     "files": [
       "src/front/shared/pages/Multisign/Btc/Btc.tsx"
     ]
   },
   {
     "id": "BTCMS_CreateWalletLoading",
-    "message": "Lädt... Bitte warte",
+    "message": "Ldt... Bitte warte",
     "files": [
       "src/front/shared/pages/Multisign/Btc/Btc.tsx"
     ]
@@ -1867,7 +1867,7 @@
   },
   {
     "id": "BTCMS_CreateWalletReadyButton",
-    "message": "Bereit. Wallet öffnen",
+    "message": "Bereit. Wallet ffnen",
     "files": [
       "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx",
       "src/front/shared/pages/Multisign/Btc/Btc.tsx"
@@ -1924,7 +1924,7 @@
   },
   {
     "id": "swapProgressGoToWallet",
-    "message": "Guthaben prüfen",
+    "message": "Guthaben prfen",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx",
       "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
@@ -1943,25 +1943,25 @@
   },
   {
     "id": "Withdrow2224",
-    "message": "Bestätigen"
+    "message": "Besttigen"
   },
   {
     "id": "partial-tour-2",
-    "message": "Wähle in diesem Feld die Währung aus und gib den Betrag ein, den du verkaufen möchtest. Du kannst die Währung auch über eine externe Wallet verkaufen.",
+    "message": "Whle in diesem Feld die Whrung aus und gib den Betrag ein, den du verkaufen mchtest. Du kannst die Whrung auch ber eine externe Wallet verkaufen.",
     "files": [
       "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
     ]
   },
   {
     "id": "partial-tour-3",
-    "message": "Wähle in diesem Feld die Währung aus und gib den Betrag ein, den du kaufen möchten.",
+    "message": "Whle in diesem Feld die Whrung aus und gib den Betrag ein, den du kaufen mchten.",
     "files": [
       "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
     ]
   },
   {
     "id": "partial-tour-4",
-    "message": "Hier kannst du den Suchstatus von Tauschangeboten einsehen. Beim Laden siehst du 'Aufträge suchen...'. Nachdem du eine Bestellung gefunden hast, überprüfe hier den Wechselkurs.",
+    "message": "Hier kannst du den Suchstatus von Tauschangeboten einsehen. Beim Laden siehst du 'Auftrge suchen...'. Nachdem du eine Bestellung gefunden hast, berprfe hier den Wechselkurs.",
     "files": [
       "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
     ]
@@ -1975,21 +1975,21 @@
   },
   {
     "id": "partial-tour-6",
-    "message": "Klicke hier, um eine direkte URL der Transaktion anzuzeigen. Sie ist verfügbar, wenn die Schaltfläche bunt ist.",
+    "message": "Klicke hier, um eine direkte URL der Transaktion anzuzeigen. Sie ist verfgbar, wenn die Schaltflche bunt ist.",
     "files": [
       "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
     ]
   },
   {
     "id": "partial-tour-7",
-    "message": "Drücke diese Schaltfläche, um das Auftragsbuch anzuzeigen. Die Bestellungen werden für bestimmte Währungen angezeigt. Auf der Seite Auftragsbuch kannst du auch deine eigene Bestellung erstellen.",
+    "message": "Drcke diese Schaltflche, um das Auftragsbuch anzuzeigen. Die Bestellungen werden fr bestimmte Whrungen angezeigt. Auf der Seite Auftragsbuch kannst du auch deine eigene Bestellung erstellen.",
     "files": [
       "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
     ]
   },
   {
     "id": "tour-step-1",
-    "message": "Der Saldo der gewählten Währung wird am Ende des Feldes gegenüber der Währung angezeigt. Du kannst den Browser schließen und deinen Computer neu laden. Dein Guthaben bleibt gleich. Bitte vergiss nicht, deine Schlüssel aufzubewahren",
+    "message": "Der Saldo der gewhlten Whrung wird am Ende des Feldes gegenber der Whrung angezeigt. Du kannst den Browser schlieen und deinen Computer neu laden. Dein Guthaben bleibt gleich. Bitte vergiss nicht, deine Schlssel aufzubewahren",
     "files": [
       "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
     ]
@@ -2003,14 +2003,14 @@
   },
   {
     "id": "tour-step-1.2",
-    "message": "Durch Drücken der Taste kannst du dein Guthaben aufladen",
+    "message": "Durch Drcken der Taste kannst du dein Guthaben aufladen",
     "files": [
       "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
     ]
   },
   {
     "id": "tour-step-2",
-    "message": "Du kannst Währungen verschiedener Blockchains wie Bitcoin, Ethereum, Bitcoin Cash, Litecoin und andere Token speichern",
+    "message": "Du kannst Whrungen verschiedener Blockchains wie Bitcoin, Ethereum, Bitcoin Cash, Litecoin und andere Token speichern",
     "files": [
       "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
     ]
@@ -2024,7 +2024,7 @@
   },
   {
     "id": "tour-step-4",
-    "message": "Unser einzigartiger Peer-to-Peer-Austausch ist in unserem Wallet verfügbar, das auf der Atomic Swap-Technologie basiert. Du kannst deine Kryptowährung in unserem Wallet auflisten.",
+    "message": "Unser einzigartiger Peer-to-Peer-Austausch ist in unserem Wallet verfgbar, das auf der Atomic Swap-Technologie basiert. Du kannst deine Kryptowhrung in unserem Wallet auflisten.",
     "files": [
       "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
     ]
@@ -2052,7 +2052,7 @@
   },
   {
     "id": "FeeInfoBlockChooseFeeRate",
-    "message": "Gebührensatz wählen:",
+    "message": "Gebhrensatz whlen:",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
     ]
@@ -2098,7 +2098,7 @@
   },
   {
     "id": "InfoPay_2",
-    "message": "übertragen auf",
+    "message": "bertragen auf",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
@@ -2112,14 +2112,14 @@
   },
   {
     "id": "InfoPay_4",
-    "message": "Geschätzte Zeit bis zur Bestätigung",
+    "message": "Geschtzte Zeit bis zur Besttigung",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
   },
   {
     "id": "createWalletCaptureOthers",
-    "message": "oder andere Währungen"
+    "message": "oder andere Whrungen"
   },
   {
     "id": "invoiceModal_Contact",
@@ -2172,7 +2172,7 @@
   },
   {
     "id": "invoiceModal_Title",
-    "message": "Rechnung für die Einzahlung",
+    "message": "Rechnung fr die Einzahlung",
     "files": [
       "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
     ]
@@ -2348,29 +2348,29 @@
     ]
   },
   {
-    "id": "WalletRow_Menu_Сopy",
+    "id": "WalletRow_Menu_opy",
     "message": "Adresse kopieren",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
   },
   {
-    "id": "WalletRow_Menu_Сopy_PrivateKey",
-    "message": "Kopiere den privaten Schlüssel",
+    "id": "WalletRow_Menu_opy_PrivateKey",
+    "message": "Kopiere den privaten Schlssel",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
   },
   {
     "id": "currencyAction81",
-    "message": "Bitte wähle eine gewünschte Währung {context}",
+    "message": "Bitte whle eine gewnschte Whrung {context}",
     "files": [
       "src/front/shared/components/modals/CurrencyAction/CurrencyAction.tsx"
     ]
   },
   {
     "id": "back",
-    "message": "Zurück",
+    "message": "Zurck",
     "files": [
       "src/front/shared/components/TourWindow/index.tsx",
       "src/front/shared/components/modals/OfferModal/ConfirmOffer/ConfirmOffer.tsx"
@@ -2378,7 +2378,7 @@
   },
   {
     "id": "closeTourWindow",
-    "message": "Schließen",
+    "message": "Schlieen",
     "files": [
       "src/front/shared/components/TourWindow/index.tsx"
     ]
@@ -2392,7 +2392,7 @@
   },
   {
     "id": "skip",
-    "message": "Überspringen",
+    "message": "berspringen",
     "files": [
       "src/front/shared/components/TourWindow/index.tsx"
     ]
@@ -2406,7 +2406,7 @@
   },
   {
     "id": "chooseCorrectNetwork",
-    "message": "Bitte öffne die verbundene Wallet und wähle {br}{chainName}",
+    "message": "Bitte ffne die verbundene Wallet und whle {br}{chainName}",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
@@ -2448,7 +2448,7 @@
   },
   {
     "id": "ForYou",
-    "message": "Für dich",
+    "message": "Fr dich",
     "files": [
       "src/front/shared/pages/Wallet/WallerSlider/index.tsx"
     ]
@@ -2462,14 +2462,14 @@
   },
   {
     "id": "addAsset",
-    "message": "Währung hinzufügen",
+    "message": "Whrung hinzufgen",
     "files": [
       "src/front/shared/pages/Wallet/CurrenciesList.tsx"
     ]
   },
   {
     "id": "addCustomToken",
-    "message": "Benutzerdefiniertes Token hinzufügen",
+    "message": "Benutzerdefiniertes Token hinzufgen",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/InputForm.tsx",
       "src/front/shared/pages/Wallet/CurrenciesList.tsx"
@@ -2505,14 +2505,14 @@
   },
   {
     "id": "customTokenConfirm",
-    "message": "Token hinzufügen",
+    "message": "Token hinzufgen",
     "files": [
       "src/front/shared/components/modals/AddCustomToken/index.tsx"
     ]
   },
   {
     "id": "customTokenIncorrectAddress",
-    "message": "Ungültige Adresse",
+    "message": "Ungltige Adresse",
     "files": [
       "src/front/shared/components/modals/AddCustomToken/index.tsx"
     ]
@@ -2533,14 +2533,14 @@
   },
   {
     "id": "customTokenAdded",
-    "message": "Token erfolgreich hinzugefügt",
+    "message": "Token erfolgreich hinzugefgt",
     "files": [
       "src/front/shared/components/modals/AddCustomToken/index.tsx"
     ]
   },
   {
     "id": "customERC20_Title",
-    "message": "Neuen Token hinzufügen",
+    "message": "Neuen Token hinzufgen",
     "files": [
       "src/front/shared/components/modals/AddCustomToken/index.tsx"
     ]
@@ -2603,14 +2603,14 @@
   },
   {
     "id": "selectedAssetHaveNotChains",
-    "message": "Dieses Asset hat keine Token-Adressen in unterstützten Netzwerken",
+    "message": "Dieses Asset hat keine Token-Adressen in untersttzten Netzwerken",
     "files": [
       "src/front/shared/components/modals/AddCustomToken/index.tsx"
     ]
   },
   {
     "id": "noSearchingResult",
-    "message": "Kein Ergebnis für {searchQuery}",
+    "message": "Kein Ergebnis fr {searchQuery}",
     "files": [
       "src/front/shared/components/modals/AddCustomToken/index.tsx"
     ]
@@ -2701,7 +2701,7 @@
   },
   {
     "id": "multiSignConfirmTxModal_ConfirmTx",
-    "message": "Bestätigen",
+    "message": "Besttigen",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
     ]
@@ -2715,35 +2715,35 @@
   },
   {
     "id": "multiSignConfirmTxModal_NoticeFetching",
-    "message": "Lädt...",
+    "message": "Ldt...",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
     ]
   },
   {
     "id": "multiSignConfirmTxModal_Title",
-    "message": "Bestätigung der BTC Multisig-Transaktion",
+    "message": "Besttigung der BTC Multisig-Transaktion",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
     ]
   },
   {
     "id": "multiSignConfirmTxModal_UpNotice",
-    "message": "Überprüfe die Transaktion und bestätige sie. Wenn du gegen die Stornierung bist, lehne die Transaktion einfach ab",
+    "message": "berprfe die Transaktion und besttige sie. Wenn du gegen die Stornierung bist, lehne die Transaktion einfach ab",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
     ]
   },
   {
     "id": "registerSMSMPlaceHolder",
-    "message": "Passphrase (12 Wörter)",
+    "message": "Passphrase (12 Wrter)",
     "files": [
       "src/front/shared/components/Header/Header.tsx"
     ]
   },
   {
     "id": "WithdrawSMS_BroadcastError",
-    "message": "Transaktionsübertragung fehlschlagen ({errorText})"
+    "message": "Transaktionsbertragung fehlschlagen ({errorText})"
   },
   {
     "id": "WithdrawSMS_FailSignByMnemonic",
@@ -2751,11 +2751,11 @@
   },
   {
     "id": "WithdrawSMS_NotValidMnemonic",
-    "message": "Geheimsatz ungültig"
+    "message": "Geheimsatz ungltig"
   },
   {
     "id": "WithdrawSMS_WrongMnemonic",
-    "message": "Geheimsatz ungültig"
+    "message": "Geheimsatz ungltig"
   },
   {
     "id": "BtcMultisignConfirmTx_FromAddress",
@@ -2766,28 +2766,28 @@
   },
   {
     "id": "multiSignConfirmTxModal_GoToWalletPage",
-    "message": "Wallet öffnen",
+    "message": "Wallet ffnen",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
     ]
   },
   {
     "id": "multiSignConfirmTxModal_YouCantSignThisTx",
-    "message": "Du bist nicht berechtigt, diese Transaktion zu signieren (überprüfe, ob du ein Multisig erstellt hast)",
+    "message": "Du bist nicht berechtigt, diese Transaktion zu signieren (berprfe, ob du ein Multisig erstellt hast)",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
     ]
   },
   {
     "id": "SaveMnemonicModal_EnterNotice",
-    "message": "Klicke auf Wörter, um sie in die richtige Reihenfolge zu bringen",
+    "message": "Klicke auf Wrter, um sie in die richtige Reihenfolge zu bringen",
     "files": [
       "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
     ]
   },
   {
     "id": "SaveMnemonicModal_MnemoniceDeleted",
-    "message": "Du hast deinen 12-Wörter-Seed bereits gespeichert. {href}",
+    "message": "Du hast deinen 12-Wrter-Seed bereits gespeichert. {href}",
     "files": [
       "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
     ]
@@ -2808,7 +2808,7 @@
   },
   {
     "id": "SaveMnemonicModal_SaveMnemonicStep2",
-    "message": "2. Beachte, dass dies dein Schlüssel zu {domain} ist.",
+    "message": "2. Beachte, dass dies dein Schlssel zu {domain} ist.",
     "files": [
       "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
     ]
@@ -2822,7 +2822,7 @@
   },
   {
     "id": "SaveMnemonicModal_ShowMnemonicNotice",
-    "message": "Schreibe diese Wörter in der richtigen Reihenfolge und bewahre sie an einem sicheren Ort auf.",
+    "message": "Schreibe diese Wrter in der richtigen Reihenfolge und bewahre sie an einem sicheren Ort auf.",
     "files": [
       "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
     ]
@@ -2843,14 +2843,14 @@
   },
   {
     "id": "SaveMnemonicModal_BeginLater",
-    "message": "Später",
+    "message": "Spter",
     "files": [
       "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
     ]
   },
   {
     "id": "SaveMnemonicModal_BeginNotice",
-    "message": "Jetzt zeigen wir dir 12 Wörter deines geheimen Satzes.{br}Wenn du ihn verlierst, können wir dein Wallet nicht wiederherstellen.",
+    "message": "Jetzt zeigen wir dir 12 Wrter deines geheimen Satzes.{br}Wenn du ihn verlierst, knnen wir dein Wallet nicht wiederherstellen.",
     "files": [
       "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
     ]
@@ -2864,14 +2864,14 @@
   },
   {
     "id": "RestoryMnemonicWallet_MnemonicField",
-    "message": "Geheimsatz (12 Wörter):",
+    "message": "Geheimsatz (12 Wrter):",
     "files": [
       "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
     ]
   },
   {
     "id": "RestoryMnemonicWallet_MnemonicInvalid",
-    "message": "Du hast eine ungültige Wortgruppe angegeben",
+    "message": "Du hast eine ungltige Wortgruppe angegeben",
     "files": [
       "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
     ]
@@ -2885,7 +2885,7 @@
   },
   {
     "id": "RestoryMnemonicWallet_ReadyNotice",
-    "message": "Jetzt kannst du BTC, ETH und andere Währungen hinzufügen",
+    "message": "Jetzt kannst du BTC, ETH und andere Whrungen hinzufgen",
     "files": [
       "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
     ]
@@ -2906,7 +2906,7 @@
   },
   {
     "id": "RestoryMnemonicWallet_Title",
-    "message": "Wallet wiederherstellen (12 Wörter)",
+    "message": "Wallet wiederherstellen (12 Wrter)",
     "files": [
       "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
     ]
@@ -2921,7 +2921,7 @@
   },
   {
     "id": "ImportKeys_RestoreMnemonic_Tooltip",
-    "message": "12-Wort-Backup-Phrase – auch bekannt als 12-Wörter, „Backup“, Recovery-Phrase, Mnemonik-Seed, „Seed“ – ist ein einzigartiger, zufällig generierter Satz von Wörtern, die Ihnen beim Erstellen einer Brieftasche gegeben werden. Die Wiederherstellungsphrase wird verwendet, um alle privaten Schlüssel abzuleiten oder zu generieren, die direkt auf Ihrem Gerät verschlüsselt werden.",
+    "message": "12-Wort-Backup-Phrase  auch bekannt als 12-Wrter, Backup, Recovery-Phrase, Mnemonik-Seed, Seed  ist ein einzigartiger, zufllig generierter Satz von Wrtern, die Ihnen beim Erstellen einer Brieftasche gegeben werden. Die Wiederherstellungsphrase wird verwendet, um alle privaten Schlssel abzuleiten oder zu generieren, die direkt auf Ihrem Gert verschlsselt werden.",
     "files": [
       "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx",
       "src/front/shared/pages/CreateWallet/CreateWallet.tsx",
@@ -2930,7 +2930,7 @@
   },
   {
     "id": "ImportKeys_RestoreMnemonic_Tooltip_withBalance",
-    "message": "Bitte sei vorsichtig! Sobald du einen neuen Seed importierst, wird dein aktuelles Guthaben zurückgesetzt. Speicher dein aktuelles Guthaben in einer anderen Wallet.",
+    "message": "Bitte sei vorsichtig! Sobald du einen neuen Seed importierst, wird dein aktuelles Guthaben zurckgesetzt. Speicher dein aktuelles Guthaben in einer anderen Wallet.",
     "files": [
       "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx",
       "src/front/shared/pages/CreateWallet/CreateWallet.tsx",
@@ -2954,84 +2954,84 @@
   },
   {
     "id": "MainFAQ1_header",
-    "message": "Wie werden meine privaten Schlüssel gespeichert?",
+    "message": "Wie werden meine privaten Schlssel gespeichert?",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ1_content",
-    "message": "Ihre privaten Schlüssel werden NUR auf deinem Gerät im localStorage deines Browsers gespeichert. Bitte sichere deine Schlüssel, da dein Browser oder dein Gerät abstürzen kann.",
+    "message": "Ihre privaten Schlssel werden NUR auf deinem Gert im localStorage deines Browsers gespeichert. Bitte sichere deine Schlssel, da dein Browser oder dein Gert abstrzen kann.",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ2_header",
-    "message": "Welche Gebühren fallen an?",
+    "message": "Welche Gebhren fallen an?",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ2_content",
-    "message": "Du zahlst die Standard-TX (Minergebühren) für alle Transaktionen, die Sie auf der Plattform durchführen.",
+    "message": "Du zahlst die Standard-TX (Minergebhren) fr alle Transaktionen, die Sie auf der Plattform durchfhren.",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ2_content1",
-    "message": "Für {tokenType}-Token ist es erforderlich, dass du mindestens 0,001 {currency} auf deinem Wallets hast. Merken! Wenn du {tokenType}-Token sendest, musst du einige {currency} als Miner-Gebühren für Transaktionen halten. Dies gilt auch für alle atomaren Swaps für {currency}- und {tokenType}-Token.",
+    "message": "Fr {tokenType}-Token ist es erforderlich, dass du mindestens 0,001 {currency} auf deinem Wallets hast. Merken! Wenn du {tokenType}-Token sendest, musst du einige {currency} als Miner-Gebhren fr Transaktionen halten. Dies gilt auch fr alle atomaren Swaps fr {currency}- und {tokenType}-Token.",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ2_content2",
-    "message": "HINWEIS: Du kannst die für die jeweilige Münze erforderlichen Minergebühren leicht überprüfen, indem Sie sie einfach googeln.",
+    "message": "HINWEIS: Du kannst die fr die jeweilige Mnze erforderlichen Minergebhren leicht berprfen, indem Sie sie einfach googeln.",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ3_header",
-    "message": "Warum ist die Mining-Gebühr so hoch?",
+    "message": "Warum ist die Mining-Gebhr so hoch?",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ3_content",
-    "message": "Die Blockchain-Gebühren hängen von mehreren Faktoren ab, darunter Netzwerküberlastung und Transaktionsgröße (beeinflusst bei der Konvertierung von Krypto aus mehreren Eingaben wie Einnahmen aus Faucets oder anderen Mikrotransaktionen).",
+    "message": "Die Blockchain-Gebhren hngen von mehreren Faktoren ab, darunter Netzwerkberlastung und Transaktionsgre (beeinflusst bei der Konvertierung von Krypto aus mehreren Eingaben wie Einnahmen aus Faucets oder anderen Mikrotransaktionen).",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ3_content1",
-    "message": "Mit anderen Worten, du musst möglicherweise höhere Blockchain-Gebühren zahlen, wenn:",
+    "message": "Mit anderen Worten, du musst mglicherweise hhere Blockchain-Gebhren zahlen, wenn:",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ3_content2",
-    "message": "1) Das Blockchain-Netzwerk ist derzeit ausgelastet. Normalerweise steigt die Gebühr bei plötzlichen Schwankungen der Blockchain-Rate und großen Weltereignissen",
+    "message": "1) Das Blockchain-Netzwerk ist derzeit ausgelastet. Normalerweise steigt die Gebhr bei pltzlichen Schwankungen der Blockchain-Rate und groen Weltereignissen",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ3_content3",
-    "message": "2) Dein Kryptokonto hat eine Historie von Mikroeinzahlungen. Wenn dein Konto große Mengen an kleinen Einzahlungen hat, wird die Größe deiner Transaktion größer, da sie aus vielen Inputs besteht. Je größer die Transaktionsgröße, desto höher die Blockchain-Gebühr.",
+    "message": "2) Dein Kryptokonto hat eine Historie von Mikroeinzahlungen. Wenn dein Konto groe Mengen an kleinen Einzahlungen hat, wird die Gre deiner Transaktion grer, da sie aus vielen Inputs besteht. Je grer die Transaktionsgre, desto hher die Blockchain-Gebhr.",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
   },
   {
     "id": "MainFAQ3_content4",
-    "message": "Es kann andere Ursachen für höhere Blockchain-Gebühren geben, aber wir haben die häufigsten aufgelistet.",
+    "message": "Es kann andere Ursachen fr hhere Blockchain-Gebhren geben, aber wir haben die hufigsten aufgelistet.",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
@@ -3082,7 +3082,7 @@
   },
   {
     "id": "Exchange_InternalAddressOptionDisabled",
-    "message": "Mein Wallet (ungenügendes Guthaben)",
+    "message": "Mein Wallet (ungengendes Guthaben)",
     "files": [
       "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
     ]
@@ -3103,7 +3103,7 @@
   },
   {
     "id": "Exchange_SpecifyAddress",
-    "message": "Auswählen...",
+    "message": "Auswhlen...",
     "files": [
       "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
     ]
@@ -3138,7 +3138,7 @@
   },
   {
     "id": "InvoiceInfoModal_CloseButton",
-    "message": "Schließen",
+    "message": "Schlieen",
     "files": [
       "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
     ]
@@ -3208,7 +3208,7 @@
   },
   {
     "id": "InvoiceInfoModal_ShareLink_InfoText",
-    "message": "Diesen Link zur Bestätigung an den Zahler senden",
+    "message": "Diesen Link zur Besttigung an den Zahler senden",
     "files": [
       "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
     ]
@@ -3236,21 +3236,21 @@
   },
   {
     "id": "multiSignConfirmTxModal_ButtonClose",
-    "message": "Schließen",
+    "message": "Schlieen",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
     ]
   },
   {
     "id": "RowHistory_ConfirmTX_NeedConfirm",
-    "message": "Andere Signatur benötigt",
+    "message": "Andere Signatur bentigt",
     "files": [
       "src/front/shared/pages/History/Row/Row.tsx"
     ]
   },
   {
     "id": "RowHistory_ConfirmTX_NeedYourSign",
-    "message": "Benötigt deine Signatur",
+    "message": "Bentigt deine Signatur",
     "files": [
       "src/front/shared/pages/History/Row/Row.tsx"
     ]
@@ -3264,7 +3264,7 @@
   },
   {
     "id": "RowHistory_ConfirmTX_Sign",
-    "message": "Bestätigen",
+    "message": "Besttigen",
     "files": [
       "src/front/shared/pages/History/Row/Row.tsx"
     ]
@@ -3299,14 +3299,14 @@
   },
   {
     "id": "AdminFee_Message",
-    "message": "Provision {fee}% des Überweisungsbetrags, jedoch nicht weniger als {min} {currency}",
+    "message": "Provision {fee}% des berweisungsbetrags, jedoch nicht weniger als {min} {currency}",
     "files": [
       "src/front/shared/components/AdminFeeInfoBlock/AdminFeeInfoBlock.tsx"
     ]
   },
   {
     "id": "InfoPay_2_To",
-    "message": "{amount} erfolgreich an {br}{toAddress} überwiesen",
+    "message": "{amount} erfolgreich an {br}{toAddress} berwiesen",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
@@ -3320,14 +3320,14 @@
   },
   {
     "id": "InfoPay_2_Self",
-    "message": "{amount} erfolgreich selbst überweisen mit {br}{address}",
+    "message": "{amount} erfolgreich selbst berweisen mit {br}{address}",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
   },
   {
     "id": "InfoPay_2_External",
-    "message": "{amount} erfolgreich von {br}{fromAddress} an {toAddress} überwiesen",
+    "message": "{amount} erfolgreich von {br}{fromAddress} an {toAddress} berwiesen",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
@@ -3341,14 +3341,14 @@
   },
   {
     "id": "InfoPay_AdminFee",
-    "message": "Netzwerkgebühr",
+    "message": "Netzwerkgebhr",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
   },
   {
     "id": "InfoPay_Confirmed",
-    "message": "Bestätigt",
+    "message": "Besttigt",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
@@ -3362,7 +3362,7 @@
   },
   {
     "id": "InfoPay_MinerFee",
-    "message": "Mining-Gebühr",
+    "message": "Mining-Gebhr",
     "files": [
       "src/front/shared/pages/Transaction/TxInfo/index.tsx"
     ]
@@ -3404,7 +3404,7 @@
   },
   {
     "id": "WidgetExitTitle3",
-    "message": "Verlassen bestätigen",
+    "message": "Verlassen besttigen",
     "files": [
       "src/front/shared/helpers/wpLogoutModal.ts"
     ]
@@ -3425,7 +3425,7 @@
   },
   {
     "id": "widgetApproveMessage",
-    "message": "Möchtest du dich wirklich abmelden?",
+    "message": "Mchtest du dich wirklich abmelden?",
     "files": [
       "src/front/shared/helpers/wpLogoutModal.ts"
     ]
@@ -3453,7 +3453,7 @@
   },
   {
     "id": "WithdrawPINProtected_Confirm",
-    "message": "Transaktion bestätigen",
+    "message": "Transaktion besttigen",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
@@ -3467,7 +3467,7 @@
   },
   {
     "id": "WithdrawPINProtected_ErrorMnemonicInvalid",
-    "message": "Du hast einen ungültigen geheimen Satz eingegeben (12 Wörter)",
+    "message": "Du hast einen ungltigen geheimen Satz eingegeben (12 Wrter)",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
@@ -3502,7 +3502,7 @@
   },
   {
     "id": "WithdrawPINProtected_MnemonicUseNote",
-    "message": "Wenn der Autorisierungsserver offline ist oder du den PIN-Code vergessen hast, kannst du den Geheimsatz (12 Wörter) verwenden.",
+    "message": "Wenn der Autorisierungsserver offline ist oder du den PIN-Code vergessen hast, kannst du den Geheimsatz (12 Wrter) verwenden.",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
@@ -3523,14 +3523,14 @@
   },
   {
     "id": "WithdrawPINProtected_PincodeNote",
-    "message": "Du kannst die Transaktion auch durch Eingabe eines PIN-Codes bestätigen",
+    "message": "Du kannst die Transaktion auch durch Eingabe eines PIN-Codes besttigen",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
   },
   {
     "id": "WithdrawPINProtected_ServerOffline",
-    "message": "Der Autorisierungsserver ist offline. Versuche es später noch einmal oder verwende einen geheimen Satz (12 Wörter).",
+    "message": "Der Autorisierungsserver ist offline. Versuche es spter noch einmal oder verwende einen geheimen Satz (12 Wrter).",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
@@ -3544,35 +3544,35 @@
   },
   {
     "id": "WithdrawPINProtected_Title",
-    "message": "Auszahlungstransaktion bestätigen",
+    "message": "Auszahlungstransaktion besttigen",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
   },
   {
     "id": "WithdrawPINProtected_UpMessage",
-    "message": "Gib den PIN-Code ein, um die Transaktion zu bestätigen.",
+    "message": "Gib den PIN-Code ein, um die Transaktion zu besttigen.",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
   },
   {
     "id": "WithdrawPINProtected_UpMessageMnemonic",
-    "message": "Um die Transaktion zu bestätigen, gib den geheimen Satz ein (12 Wörter)",
+    "message": "Um die Transaktion zu besttigen, gib den geheimen Satz ein (12 Wrter)",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
   },
   {
     "id": "WithdrawPINProtected_UseMnemonicButton",
-    "message": "Verwende einen geheimen Satz (12 Wörter)",
+    "message": "Verwende einen geheimen Satz (12 Wrter)",
     "files": [
       "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
     ]
   },
   {
     "id": "ConfirmActivatePIN_Message",
-    "message": "Du hast diese Art von Wallet bereits aktiviert. Möchtest du eine andere Wallet aktivieren?",
+    "message": "Du hast diese Art von Wallet bereits aktiviert. Mchtest du eine andere Wallet aktivieren?",
     "files": [
       "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
     ]
@@ -3586,7 +3586,7 @@
   },
   {
     "id": "ConfirmActivatePIN_Title",
-    "message": "PIN-geschützte BTC-Wallet aktivieren",
+    "message": "PIN-geschtzte BTC-Wallet aktivieren",
     "files": [
       "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
     ]
@@ -3663,7 +3663,7 @@
   },
   {
     "id": "RegisterPINProtectedBTC_EnterPinCodeUpMessage",
-    "message": "PIN-geschützte BTC-Wallet aktivieren",
+    "message": "PIN-geschtzte BTC-Wallet aktivieren",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3677,7 +3677,7 @@
   },
   {
     "id": "RegisterPINProtectedBTC_ErrorMnemonicInvalid",
-    "message": "Du hast einen ungültigen geheimen Satz eingegeben (12 Wörter)",
+    "message": "Du hast einen ungltigen geheimen Satz eingegeben (12 Wrter)",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3698,14 +3698,14 @@
   },
   {
     "id": "RegisterPINProtectedBTC_ErrorWalletLocked",
-    "message": "Dieses Konto ist bereits registriert und durch einen anderen PIN-Code geschützt. Bitte gebe einen gültigen PIN-Code ein",
+    "message": "Dieses Konto ist bereits registriert und durch einen anderen PIN-Code geschtzt. Bitte gebe einen gltigen PIN-Code ein",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
   },
   {
     "id": "RegisterPINProtectedBTC_FinishMessage",
-    "message": "Dein geschütztes Wallet ist aktiviert",
+    "message": "Dein geschtztes Wallet ist aktiviert",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3747,14 +3747,14 @@
   },
   {
     "id": "RegisterPINProtectedBTC_Instruction_Message",
-    "message": "Informationen bei Nichtverfügbarkeit unseres Dienstes",
+    "message": "Informationen bei Nichtverfgbarkeit unseres Dienstes",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
   },
   {
     "id": "RegisterPINProtectedBTC_LabelConfirmYourPin",
-    "message": "PIN-code bestätigen",
+    "message": "PIN-code besttigen",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3775,14 +3775,14 @@
   },
   {
     "id": "RegisterPINProtectedBTC_MnemonicPlaceholder",
-    "message": "Gebe einen geheimen Satz ein (12 Wörter)",
+    "message": "Gebe einen geheimen Satz ein (12 Wrter)",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
   },
   {
     "id": "RegisterPINProtectedBTC_PinCodeConfirmPlaceholder",
-    "message": "Bestätige deinen PIN-code",
+    "message": "Besttige deinen PIN-code",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3803,21 +3803,21 @@
   },
   {
     "id": "RegisterPINProtectedBTC_RestoryBottomMessage",
-    "message": "Gebe einen geheimen Satz ein (12 Wörter)",
+    "message": "Gebe einen geheimen Satz ein (12 Wrter)",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
   },
   {
     "id": "RegisterPINProtectedBTC_RestoryUpMessage",
-    "message": "PIN-geschützte BTC-Wallet wiederherstellen",
+    "message": "PIN-geschtzte BTC-Wallet wiederherstellen",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
   },
   {
     "id": "RegisterPINProtectedBTC_SaveYourMnemonic",
-    "message": "Bitte speichere deinen geheimen Satz (12 Wörter).",
+    "message": "Bitte speichere deinen geheimen Satz (12 Wrter).",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3838,7 +3838,7 @@
   },
   {
     "id": "RegisterPINProtectedBTC_Title",
-    "message": "PIN-geschütztes Wallet aktivieren",
+    "message": "PIN-geschtztes Wallet aktivieren",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3852,7 +3852,7 @@
   },
   {
     "id": "RegisterPINProtectedBTC_UseMnemonicRestoreNote",
-    "message": "Du kannst die Wallet mit einem geheimen Satz (12 Wörter) wiederherstellen.",
+    "message": "Du kannst die Wallet mit einem geheimen Satz (12 Wrter) wiederherstellen.",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3866,14 +3866,14 @@
   },
   {
     "id": "RegisterPINProtectedBTC_YouNeedSaveMnemonic",
-    "message": "Um 2fa zu aktivieren, musst du deinen geheimen Satz (12 Wörter) speichern.",
+    "message": "Um 2fa zu aktivieren, musst du deinen geheimen Satz (12 Wrter) speichern.",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
   },
   {
     "id": "privateKeyCurrency",
-    "message": "Dein {cur} privater Schlüssel",
+    "message": "Dein {cur} privater Schlssel",
     "files": [
       "src/front/shared/components/modals/PrivateKeysModal/PrivateKeysModal.tsx"
     ]
@@ -3894,7 +3894,7 @@
   },
   {
     "id": "ReceiveModal_SaveYourMnemonic",
-    "message": "Bitte vergiss nicht, deine Seed-Phrase zu speichern. Eine solche Maßnahme ist erforderlich, um dein Geld im Notfall zu retten.",
+    "message": "Bitte vergiss nicht, deine Seed-Phrase zu speichern. Eine solche Manahme ist erforderlich, um dein Geld im Notfall zu retten.",
     "files": [
       "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
     ]
@@ -4000,14 +4000,14 @@
   },
   {
     "id": "AlertOrderNonEnoughtBalanceTitle",
-    "message": "Nicht genügend Guthaben.",
+    "message": "Nicht gengend Guthaben.",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "Balance_YouAreHaveNotSignegTx",
-    "message": "{count} Transaktion benötigt deine Bestätigung",
+    "message": "{count} Transaktion bentigt deine Besttigung",
     "files": [
       "src/front/shared/components/BalanceForm/BalanceForm.tsx"
     ]
@@ -4028,7 +4028,7 @@
   },
   {
     "id": "multiSignJoinLink_SaveYourMnemonic",
-    "message": "Bitte speichere deinen geheimen Satz (12 Wörter).",
+    "message": "Bitte speichere deinen geheimen Satz (12 Wrter).",
     "files": [
       "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
     ]
@@ -4052,7 +4052,7 @@
   },
   {
     "id": "BTCMS_SaveYourMnemonic",
-    "message": "Bitte speichere deinen geheimen Satz (12 Wörter).",
+    "message": "Bitte speichere deinen geheimen Satz (12 Wrter).",
     "files": [
       "src/front/shared/pages/Multisign/Btc/Btc.tsx"
     ]
@@ -4066,18 +4066,18 @@
   },
   {
     "id": "RowWallet_MsConfirmCountMobile",
-    "message": "{count} Transaktionen warten auf deine Bestätigung",
+    "message": "{count} Transaktionen warten auf deine Besttigung",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
   },
   {
     "id": "WithdrawSMS_SmsConfirming",
-    "message": "Transaktion bestätigen"
+    "message": "Transaktion besttigen"
   },
   {
     "id": "MnemonicInputComponent_DeleteText",
-    "message": "Klicke um ein Wort zu löschen",
+    "message": "Klicke um ein Wort zu lschen",
     "files": [
       "src/front/shared/components/forms/MnemonicInput/MnemonicInput.tsx"
     ]
@@ -4091,14 +4091,14 @@
   },
   {
     "id": "Exchange_AvialableBalance",
-    "message": "Verfügbar: ",
+    "message": "Verfgbar: ",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "Banner_YouAreHaveNotSignegTx",
-    "message": "{count} multisig-Transaktion wartet auf deine Bestätigung",
+    "message": "{count} multisig-Transaktion wartet auf deine Besttigung",
     "files": [
       "src/front/shared/pages/Wallet/WallerSlider/index.tsx"
     ]
@@ -4119,14 +4119,14 @@
   },
   {
     "id": "Exchange_MinerFees",
-    "message": "Mining-Gebühr",
+    "message": "Mining-Gebhr",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "Exchange_ServiceFee",
-    "message": "Netzwerkgebühr",
+    "message": "Netzwerkgebhr",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
@@ -4178,21 +4178,21 @@
   },
   {
     "id": "ConfirmBeginSwapOnlyInternal",
-    "message": "Die Annahme eines Angebots aus dem Angebotsbuch ist vorübergehend nur für interne Adressen möglich",
+    "message": "Die Annahme eines Angebots aus dem Angebotsbuch ist vorbergehend nur fr interne Adressen mglich",
     "files": [
       "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
     ]
   },
   {
     "id": "offerMessageToUser",
-    "message": "Du musst die ganze Zeit online sein, sonst ist Ideine Bestellung für andere Benutzer nicht sichtbar",
+    "message": "Du musst die ganze Zeit online sein, sonst ist Ideine Bestellung fr andere Benutzer nicht sichtbar",
     "files": [
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
     ]
   },
   {
     "id": "createOrderMessageForUser",
-    "message": "Du musst die ganze Zeit online sein, sonst ist deine Bestellung für andere Benutzer nicht sichtbar",
+    "message": "Du musst die ganze Zeit online sein, sonst ist deine Bestellung fr andere Benutzer nicht sichtbar",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
@@ -4206,14 +4206,14 @@
   },
   {
     "id": "AddLiquidity",
-    "message": "Liquidität hinzufügen",
+    "message": "Liquiditt hinzufgen",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
   },
   {
     "id": "MainFAQ2_content3",
-    "message": "Aktuelle Mining-Gebühren:",
+    "message": "Aktuelle Mining-Gebhren:",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
@@ -4288,7 +4288,7 @@
   },
   {
     "id": "widget-tour-step-1",
-    "message": "Willkommen auf {widgetName}. Möchtest du eine kurze Tour?",
+    "message": "Willkommen auf {widgetName}. Mchtest du eine kurze Tour?",
     "files": [
       "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
     ]
@@ -4302,42 +4302,42 @@
   },
   {
     "id": "widget-tour-step-3",
-    "message": "Verwende diese Schaltflächen, um Kryptowährungen in und aus deinem Wallet zu transferieren.",
+    "message": "Verwende diese Schaltflchen, um Kryptowhrungen in und aus deinem Wallet zu transferieren.",
     "files": [
       "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
     ]
   },
   {
     "id": "widget-tour-step-4",
-    "message": "Blättere durch dieses Menü, um Produkte, Dienstleistungen und nützliche Informationen zu finden.",
+    "message": "Blttere durch dieses Men, um Produkte, Dienstleistungen und ntzliche Informationen zu finden.",
     "files": [
       "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
     ]
   },
   {
     "id": "widget-tour-step-5",
-    "message": "Klicke auf diese drei Punkte, um deine Wallet-Adresse, private Schlüssel und mehr zu finden.",
+    "message": "Klicke auf diese drei Punkte, um deine Wallet-Adresse, private Schlssel und mehr zu finden.",
     "files": [
       "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
     ]
   },
   {
     "id": "widget-tour-step-6",
-    "message": "Klicke auf diese Schaltfläche, um eine Liste deiner letzten Transaktionen anzuzeigen.",
+    "message": "Klicke auf diese Schaltflche, um eine Liste deiner letzten Transaktionen anzuzeigen.",
     "files": [
       "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
     ]
   },
   {
     "id": "widget-tour-step-7",
-    "message": "Klicke auf diese Schaltfläche, um deine Kryptowährungen umzutauschen.",
+    "message": "Klicke auf diese Schaltflche, um deine Kryptowhrungen umzutauschen.",
     "files": [
       "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
     ]
   },
   {
     "id": "WTH276",
-    "message": "Der Betrag sollte dein {br} aktuelles Guthaben abzüglich der Mining-Gebühr nicht überschreiten",
+    "message": "Der Betrag sollte dein {br} aktuelles Guthaben abzglich der Mining-Gebhr nicht berschreiten",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
     ]
@@ -4368,7 +4368,7 @@
   },
   {
     "id": "add_notice",
-    "message": "Hinweis hinzufügen",
+    "message": "Hinweis hinzufgen",
     "files": [
       "src/front/shared/components/Comment/Comment.tsx"
     ]
@@ -4396,28 +4396,28 @@
   },
   {
     "id": "FeeInfoBlockTotalFee",
-    "message": "Gesamtgebühren, die du zahlst:",
+    "message": "Gesamtgebhren, die du zahlst:",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
     ]
   },
   {
     "id": "FeeInfoBlockMinerFee",
-    "message": "Mining-Gebühr:",
+    "message": "Mining-Gebhr:",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
     ]
   },
   {
     "id": "FeeInfoBlockMinerFeeTooltip",
-    "message": "Betrag der Kryptowährung, der gezahlt wird, um Miner zu motivieren, deine Transaktion zu bestätigen",
+    "message": "Betrag der Kryptowhrung, der gezahlt wird, um Miner zu motivieren, deine Transaktion zu besttigen",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
     ]
   },
   {
     "id": "FeeInfoBlockServiceFee",
-    "message": "Netzwerkgebühr",
+    "message": "Netzwerkgebhr",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx",
       "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
@@ -4425,14 +4425,14 @@
   },
   {
     "id": "FeeInfoBlockServiceFeeConditions",
-    "message": "des Überweisungsbetrags, jedoch nicht weniger als",
+    "message": "des berweisungsbetrags, jedoch nicht weniger als",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
     ]
   },
   {
     "id": "localStorageUserNotification",
-    "message": "✔️ Diese Daten enthalten nicht deinen privaten Schlüssel",
+    "message": " Diese Daten enthalten nicht deinen privaten Schlssel",
     "files": [
       "src/front/shared/pages/LocalStorage/LocalStorage.tsx"
     ]
@@ -4465,7 +4465,7 @@
   },
   {
     "id": "SwapProgressText_CheckingBalance",
-    "message": "Guthaben prüfen...",
+    "message": "Guthaben prfen...",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
@@ -4505,7 +4505,7 @@
   },
   {
     "id": "SwapProgressText_Finish",
-    "message": "{buyCurrency} Token wurden auf deine Wallet übertragen. Überprüfe das Guthaben",
+    "message": "{buyCurrency} Token wurden auf deine Wallet bertragen. berprfe das Guthaben",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
@@ -4525,7 +4525,7 @@
   },
   {
     "id": "SwapProgressText_MakerWaitTakerWithdraw",
-    "message": "Warten darauf, dass der {buyCurrency}-Besitzer einen geheimen Schlüssel zum {sellCurrency}-Kontakt hinzufügt",
+    "message": "Warten darauf, dass der {buyCurrency}-Besitzer einen geheimen Schlssel zum {sellCurrency}-Kontakt hinzufgt",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx"
@@ -4533,7 +4533,7 @@
   },
   {
     "id": "SwapProgressText_CreateSecret",
-    "message": "Erstelle einen geheimen Schlüssel",
+    "message": "Erstelle einen geheimen Schlssel",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
     ]
@@ -4547,14 +4547,14 @@
   },
   {
     "id": "localStorageBtnBack",
-    "message": "Zurück",
+    "message": "Zurck",
     "files": [
       "src/front/shared/pages/LocalStorage/LocalStorage.tsx"
     ]
   },
   {
     "id": "FAQServiceFee",
-    "message": "Netzwerkgebühr (nur Abhebungen):",
+    "message": "Netzwerkgebhr (nur Abhebungen):",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
@@ -4603,7 +4603,7 @@
   },
   {
     "id": "Swap_MetamaskAttention",
-    "message": "Bitte bestätige die Transaktion in deinen \"{walletName}\"-Wallet",
+    "message": "Bitte besttige die Transaktion in deinen \"{walletName}\"-Wallet",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
     ]
@@ -4617,14 +4617,14 @@
   },
   {
     "id": "Swap_OwnerHasLockedUTX",
-    "message": "Swap pausiert, weil du eine unbestätigte Transaktion im Mempool hast. Warte auf Bestätigung",
+    "message": "Swap pausiert, weil du eine unbesttigte Transaktion im Mempool hast. Warte auf Besttigung",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
     ]
   },
   {
     "id": "Swap_SellerHasLockedUTX",
-    "message": "Swap pausiert, weil der Eigentümer eine unbestätigte Transaktion im Mempool hat. Warte auf Bestätigung",
+    "message": "Swap pausiert, weil der Eigentmer eine unbesttigte Transaktion im Mempool hat. Warte auf Besttigung",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
     ]
@@ -4638,42 +4638,42 @@
   },
   {
     "id": "Swap_UtxoBroadcastError",
-    "message": "Swap pausiert, weil Broadcast-Übertragung mit Fehler \"{error}\" endeten",
+    "message": "Swap pausiert, weil Broadcast-bertragung mit Fehler \"{error}\" endeten",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
     ]
   },
   {
     "id": "WalletRowNodeIsDownTooltipMessage",
-    "message": "Du kannst keine Transaktionen durchführen",
+    "message": "Du kannst keine Transaktionen durchfhren",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
   },
   {
     "id": "WithdrowBalanceNotEnoughtPrompt",
-    "message": "Nicht genügend Guthaben zum Senden",
+    "message": "Nicht gengend Guthaben zum Senden",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
     ]
   },
   {
     "id": "WithdrowTokenCurrencyBalance",
-    "message": "Nicht genügend {tokenCurrency}-Guthaben für die Mining-Gebühr",
+    "message": "Nicht gengend {tokenCurrency}-Guthaben fr die Mining-Gebhr",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
     ]
   },
   {
     "id": "CreateOffer_BuyToken_NeedEth",
-    "message": "Um {buyCurrency} zu kaufen, benötigst du {ethAmount} ETH, um die Provision zu bezahlen",
+    "message": "Um {buyCurrency} zu kaufen, bentigst du {ethAmount} ETH, um die Provision zu bezahlen",
     "files": [
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
     ]
   },
   {
     "id": "CreateOffer_SellToken_NeedEth",
-    "message": "Um {sellCurrency} zu verkaufen, benötigst du {ethAmount} ETH, um die Provision zu bezahlen",
+    "message": "Um {sellCurrency} zu verkaufen, bentigst du {ethAmount} ETH, um die Provision zu bezahlen",
     "files": [
       "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
     ]
@@ -4739,7 +4739,7 @@
   },
   {
     "id": "TurboIcon_Tip",
-    "message": "Schneller und günstiger Tausch mit vertrauenswürdigem Marketmaker, empfohlen für kleine Beträge",
+    "message": "Schneller und gnstiger Tausch mit vertrauenswrdigem Marketmaker, empfohlen fr kleine Betrge",
     "files": [
       "src/front/shared/components/ui/TurboIcon/TurboIcon.tsx"
     ]
@@ -4783,28 +4783,28 @@
   },
   {
     "id": "FeeRadiosSpeedTypeDescriptionCustom",
-    "message": "Lege einen benutzerdefinierten Gebührensatz fest.",
+    "message": "Lege einen benutzerdefinierten Gebhrensatz fest.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
     ]
   },
   {
     "id": "FeeRadiosSpeedTypeDescriptionFast",
-    "message": "Ein durchschnitt (Gebühr) für Transaktionen, die innerhalb von 1 bis 2 Blöcken bestätigt werden müssen.",
+    "message": "Ein durchschnitt (Gebhr) fr Transaktionen, die innerhalb von 1 bis 2 Blcken besttigt werden mssen.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
     ]
   },
   {
     "id": "FeeRadiosSpeedTypeDescriptionMedium",
-    "message": "Ein durchschnitt (Gebühr) für Transaktionen, die innerhalb von 3 bis 6 Blöcken bestätigt werden müssen.",
+    "message": "Ein durchschnitt (Gebhr) fr Transaktionen, die innerhalb von 3 bis 6 Blcken besttigt werden mssen.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
     ]
   },
   {
     "id": "FeeRadiosSpeedTypeDescriptionSlow",
-    "message": "Ein durchschnitt (Gebühr) für Transaktionen, die innerhalb von 7 Blöcken oder mehr bestätigt werden müssen.",
+    "message": "Ein durchschnitt (Gebhr) fr Transaktionen, die innerhalb von 7 Blcken oder mehr besttigt werden mssen.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
     ]
@@ -4867,28 +4867,28 @@
   },
   {
     "id": "MM_FAQ_TotalSum",
-    "message": "- Zu jedem Zeitpunkt ist die Summe der BTC- und {token}-Guthaben größer als zuvor.",
+    "message": "- Zu jedem Zeitpunkt ist die Summe der BTC- und {token}-Guthaben grer als zuvor.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_Audit",
-    "message": "- Die App hat die Prüfung von {link} bestanden.",
+    "message": "- Die App hat die Prfung von {link} bestanden.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_NotStore",
-    "message": "- Lagere keine großen Beträge oder Fremdmittel.",
+    "message": "- Lagere keine groen Betrge oder Fremdmittel.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_FundAccess",
-    "message": "- Die Schlüssel zu deinem Guthaben sind nur bei dir, wir haben keinen Zugriff auf dein Guthaben",
+    "message": "- Die Schlssel zu deinem Guthaben sind nur bei dir, wir haben keinen Zugriff auf dein Guthaben",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
@@ -4909,7 +4909,7 @@
   },
   {
     "id": "MM_FAQ_HowMuchEarn",
-    "message": "Wir deklarieren ab 10% pro Jahr (APY). Wenn die Anzahl der Austausche nicht ausreicht, werden wir die Benutzer motivieren, den Austausch mit Kopfgeldern durchzuführen.",
+    "message": "Wir deklarieren ab 10% pro Jahr (APY). Wenn die Anzahl der Austausche nicht ausreicht, werden wir die Benutzer motivieren, den Austausch mit Kopfgeldern durchzufhren.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
@@ -4930,7 +4930,7 @@
   },
   {
     "id": "MM_FAQ_ItemContent6",
-    "message": "Informiere die Gemeinschaften, in dem du Mitglied bist, über die Möglichkeit des Austauschs.",
+    "message": "Informiere die Gemeinschaften, in dem du Mitglied bist, ber die Mglichkeit des Austauschs.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
@@ -4944,35 +4944,35 @@
   },
   {
     "id": "MM_FAQ_ItemContent7-1",
-    "message": "Du kannst nur mit Bitcoin auffüllen. Aber unweigerlich kann dein BTC-Guthaben manchmal sinken und {token} kann sich erhöhen und umgekehrt.",
+    "message": "Du kannst nur mit Bitcoin auffllen. Aber unweigerlich kann dein BTC-Guthaben manchmal sinken und {token} kann sich erhhen und umgekehrt.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_ItemContent7-2",
-    "message": "Zu jedem Zeitpunkt wird die Summe dieser Salden größer sein als zuvor.",
+    "message": "Zu jedem Zeitpunkt wird die Summe dieser Salden grer sein als zuvor.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_ItemContent7-3",
-    "message": "Wenn du BTC abheben möchtest, aber einige davon in {token} sind, musst du {token} selbst wechseln, zum Beispiel über die Binance-Börse.",
+    "message": "Wenn du BTC abheben mchtest, aber einige davon in {token} sind, musst du {token} selbst wechseln, zum Beispiel ber die Binance-Brse.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_ItemTitle8",
-    "message": "Warum tauschen Benutzer nicht über Binance?",
+    "message": "Warum tauschen Benutzer nicht ber Binance?",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_ItemContent8",
-    "message": "Unsere Kunden lieben und unterstützen die Dezentralisierung. Unser Austausch funktioniert über Smart Contracts und wir können die Gelder des Kunden nicht länger als 3 Stunden einfrieren.",
+    "message": "Unsere Kunden lieben und untersttzen die Dezentralisierung. Unser Austausch funktioniert ber Smart Contracts und wir knnen die Gelder des Kunden nicht lnger als 3 Stunden einfrieren.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
@@ -5000,7 +5000,7 @@
   },
   {
     "id": "MM_FAQ_ItemTitle4",
-    "message": "Welches Mindestguthaben ist für den Einstieg erforderlich?",
+    "message": "Welches Mindestguthaben ist fr den Einstieg erforderlich?",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
@@ -5021,67 +5021,67 @@
   },
   {
     "id": "MM_Choose_Farming_Body1",
-    "message": "Получайте дополнительную награду в SWAP токенах, заморозив LP токены."
+    "message": "    UNIINGO ,  LP ."
   },
   {
     "id": "MM_Choose_Farming_Button",
-    "message": "Начать фарминг"
+    "message": " "
   },
   {
     "id": "MM_Choose_Farming_Title",
-    "message": "Фарминг"
+    "message": ""
   },
   {
     "id": "MM_Choose_InBrowser_Body1",
-    "message": "Подходит для того, что бы попробовать."
+    "message": "  ,   ."
   },
   {
     "id": "MM_Choose_InBrowser_Body2",
-    "message": "Если вы закроете браузер, вы перестанете зарабатывать."
+    "message": "   ,   ."
   },
   {
     "id": "MM_Choose_InBrowser_Button",
-    "message": "Начать в браузере"
+    "message": "  "
   },
   {
     "id": "MM_Choose_InBrowser_Title",
-    "message": "Маркетмейкер в браузере"
+    "message": "  "
   },
   {
     "id": "MM_Choose_Server_Body1",
-    "message": "Подходит для продвинутых пользователей."
+    "message": "   ."
   },
   {
     "id": "MM_Choose_Server_Body2",
-    "message": "Требуется сервер для разворачивания образа Docker."
+    "message": "     Docker."
   },
   {
     "id": "MM_Choose_Server_Button",
-    "message": "Читать инструкцию"
+    "message": " "
   },
   {
     "id": "MM_Choose_Server_Title",
-    "message": "Маркетмейкер-сервер"
+    "message": "-"
   },
   {
     "id": "MM_Choose_Title",
-    "message": "Выберите способ"
+    "message": " "
   },
   {
     "id": "MM_Choose_Uniswap_Body1",
-    "message": "Подходит для продвинутых пользователей."
+    "message": "   ."
   },
   {
     "id": "MM_Choose_Uniswap_Body2",
-    "message": "Зарабатывайте когда другие продают или покупают SWAP токены."
+    "message": "      UNIINGO ."
   },
   {
     "id": "MM_Choose_Uniswap_Button",
-    "message": "Создать пул"
+    "message": " "
   },
   {
     "id": "MM_Choose_Uniswap_Title",
-    "message": "Создайте uniswap-пул SWAP/ETH"
+    "message": " uniswap- UNIINGO/ETH"
   },
   {
     "id": "MM_Promo_Title",
@@ -5122,7 +5122,7 @@
   },
   {
     "id": "MM_DepositeWallet",
-    "message": "aufladen, überweisen nach",
+    "message": "aufladen, berweisen nach",
     "files": [
       "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
     ]
@@ -5252,7 +5252,7 @@
   },
   {
     "id": "MM_WarningMessage",
-    "message": "Warnung! Sie müssen die ganze Zeit online bleiben, sonst verdienen Sie nicht oder wenn der Swap verarbeitet wird (kann einige Stunden dauern), können Sie Ihr Geld VERLIEREN! Wenn Sie keine lange Betriebszeit garantieren können, deaktivieren Sie das Market-Making.",
+    "message": "Warnung! Sie mssen die ganze Zeit online bleiben, sonst verdienen Sie nicht oder wenn der Swap verarbeitet wird (kann einige Stunden dauern), knnen Sie Ihr Geld VERLIEREN! Wenn Sie keine lange Betriebszeit garantieren knnen, deaktivieren Sie das Market-Making.",
     "files": [
       "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
     ]
@@ -5280,21 +5280,21 @@
   },
   {
     "id": "MM_MarketmakingBalanceTitle",
-    "message": "Gesamte Liquidität:",
+    "message": "Gesamte Liquiditt:",
     "files": [
       "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
     ]
   },
   {
     "id": "MM_whatIsWBTCTooltip1",
-    "message": "{tokenFullName} ({token}) ist ein {tokenStandart}-Token, das {utxoTitle} ({utxoCoin}) in der {blockchainName}-Blockchain repräsentiert.",
+    "message": "{tokenFullName} ({token}) ist ein {tokenStandart}-Token, das {utxoTitle} ({utxoCoin}) in der {blockchainName}-Blockchain reprsentiert.",
     "files": [
       "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
     ]
   },
   {
     "id": "MM_whatIsWBTCTooltip2",
-    "message": "{token} wurde erstellt, um Inhabern von {utxoTitle} die Teilnahme an dezentralen Finanzanwendungen („DeFi“) zu ermöglichen, die auf {blockchainName} beliebt sind.",
+    "message": "{token} wurde erstellt, um Inhabern von {utxoTitle} die Teilnahme an dezentralen Finanzanwendungen (DeFi) zu ermglichen, die auf {blockchainName} beliebt sind.",
     "files": [
       "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
     ]
@@ -5315,21 +5315,21 @@
   },
   {
     "id": "MM_FAQ_HighRisk",
-    "message": "- Jede Kryptowährungsoperation ist mit einem hohen Risiko verbunden.",
+    "message": "- Jede Kryptowhrungsoperation ist mit einem hohen Risiko verbunden.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_ImpermanentLoss",
-    "message": "Welcher vorübergehende Verlust ist zu erwarten?",
+    "message": "Welcher vorbergehende Verlust ist zu erwarten?",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
   },
   {
     "id": "MM_FAQ_ImpermanentLossContent",
-    "message": "Zu jedem Zeitpunkt wird die Summe dieser Salden größer sein als zuvor. Wenn Sie BTC abheben möchten, aber einige davon in {token} sind, müssen Sie {token} selbst ändern, zum Beispiel über die Binance-Börse.",
+    "message": "Zu jedem Zeitpunkt wird die Summe dieser Salden grer sein als zuvor. Wenn Sie BTC abheben mchten, aber einige davon in {token} sind, mssen Sie {token} selbst ndern, zum Beispiel ber die Binance-Brse.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
@@ -5343,14 +5343,14 @@
   },
   {
     "id": "CleanLocalStorage",
-    "message": "Hoppla, anscheinend muss die App Ihren lokalen Speicher bereinigen. Bitte speichern Sie Ihre 12-Wörter-Seed-Phrase (falls Sie sie noch nicht gespeichert haben), löschen Sie dann den lokalen Speicher, indem Sie auf die Schaltfläche klicken und importieren Sie 12-Wörter-Seed erneut. Entschuldigung für die Unannehmlichkeiten. {einrücken} {Schaltfläche}",
+    "message": "Hoppla, anscheinend muss die App Ihren lokalen Speicher bereinigen. Bitte speichern Sie Ihre 12-Wrter-Seed-Phrase (falls Sie sie noch nicht gespeichert haben), lschen Sie dann den lokalen Speicher, indem Sie auf die Schaltflche klicken und importieren Sie 12-Wrter-Seed erneut. Entschuldigung fr die Unannehmlichkeiten. {einrcken} {Schaltflche}",
     "files": [
       "src/front/shared/components/Header/Header.tsx"
     ]
   },
   {
     "id": "WalletEmptyBalance",
-    "message": "Keine Wallets verfügbar",
+    "message": "Keine Wallets verfgbar",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
       "src/front/shared/pages/Wallet/Wallet.tsx"
@@ -5358,7 +5358,7 @@
   },
   {
     "id": "ClearAndReload",
-    "message": "Löschen und neu laden",
+    "message": "Lschen und neu laden",
     "files": [
       "src/front/shared/components/Header/Header.tsx"
     ]
@@ -5372,7 +5372,7 @@
   },
   {
     "id": "AppErrorMessage",
-    "message": "Etwas stimmt nicht. Versuche, auf die Startseite zurückzukehren oder diese Seite neu zu laden.",
+    "message": "Etwas stimmt nicht. Versuche, auf die Startseite zurckzukehren oder diese Seite neu zu laden.",
     "files": [
       "src/front/shared/components/ErrorBoundary/index.tsx"
     ]
@@ -5386,14 +5386,14 @@
   },
   {
     "id": "WalletRow_MetamaskNotAvailableNetwork",
-    "message": "Bitte wählen Sie ein anderes",
+    "message": "Bitte whlen Sie ein anderes",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
   },
   {
     "id": "bankCardButtonDescription",
-    "message": "Im modalen Fenster müssen Sie mehrere Schritte ausführen, um Fiat-Gelder gegen DAS einzutauschen. Wählen Sie {buyCurrency} im Fenster aus und geben Sie die Adresse Ihrer Brieftasche an (Sie können sie unten kopieren). Warten Sie, bis das Geld Ihrer Adresse gutgeschrieben wurde. Dann können Sie Token damit kaufen.",
+    "message": "Im modalen Fenster mssen Sie mehrere Schritte ausfhren, um Fiat-Gelder gegen DAS einzutauschen. Whlen Sie {buyCurrency} im Fenster aus und geben Sie die Adresse Ihrer Brieftasche an (Sie knnen sie unten kopieren). Warten Sie, bis das Geld Ihrer Adresse gutgeschrieben wurde. Dann knnen Sie Token damit kaufen.",
     "files": [
       "src/front/shared/components/Header/WidgetTours/QuickSwapFormTour.tsx",
       "src/front/shared/pages/Exchange/QuickSwap/InputForm.tsx"
@@ -5444,7 +5444,7 @@
   },
   {
     "id": "notEnoughTokensForSwap",
-    "message": "Nicht alle Währungen sind für Swap verfügbar. Es sieht so aus, als hättest du nicht genug Token. Versuchen Sie, mehr von ihnen hinzuzufügen.",
+    "message": "Nicht alle Whrungen sind fr Swap verfgbar. Es sieht so aus, als httest du nicht genug Token. Versuchen Sie, mehr von ihnen hinzuzufgen.",
     "files": [
       "src/front/shared/components/modals/LimitOrder/ModalForm.tsx"
     ]
@@ -5458,7 +5458,7 @@
   },
   {
     "id": "limitOrderIsNotCreated",
-    "message": "Etwas ist schief gelaufen. Versuchen Sie es später erneut",
+    "message": "Etwas ist schief gelaufen. Versuchen Sie es spter erneut",
     "files": [
       "src/front/shared/components/modals/LimitOrder/index.tsx"
     ]
@@ -5531,7 +5531,7 @@
   },
   {
     "id": "gasLimitNotice",
-    "message": "Gaslimit ist die maximale Menge an Gaseinheiten, die Sie ausgeben möchten",
+    "message": "Gaslimit ist die maximale Menge an Gaseinheiten, die Sie ausgeben mchten",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
     ]
@@ -5545,7 +5545,7 @@
   },
   {
     "id": "gasPriceNotice",
-    "message": "Gaspreis gibt die Menge an Äther an, die Sie für jede Gaseinheit bezahlen möchten",
+    "message": "Gaspreis gibt die Menge an ther an, die Sie fr jede Gaseinheit bezahlen mchten",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
     ]
@@ -5559,7 +5559,7 @@
   },
   {
     "id": "slippageNotice",
-    "message": "Ihre Transaktion wird rückgängig gemacht, wenn sich der Preis um mehr als diesen Prozentsatz ungünstig ändert",
+    "message": "Ihre Transaktion wird rckgngig gemacht, wenn sich der Preis um mehr als diesen Prozentsatz ungnstig ndert",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx",
       "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
@@ -5575,7 +5575,7 @@
   },
   {
     "id": "fee",
-    "message": "Gebühr",
+    "message": "Gebhr",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
     ]
@@ -5625,7 +5625,7 @@
   },
   {
     "id": "disclaimerAboutBetaVersion",
-    "message": "* Haftungsausschluss: Die Börse verwendet ein 3rd 0x Liquiditätsprotokoll. Seien Sie vorsichtig und verwenden Sie auf eigene Gefahr."
+    "message": "* Haftungsausschluss: Die Brse verwendet ein 3rd 0x Liquidittsprotokoll. Seien Sie vorsichtig und verwenden Sie auf eigene Gefahr."
   },
   {
     "id": "insufficientBalance",
@@ -5633,42 +5633,42 @@
   },
   {
     "id": "insufficientLiquidity",
-    "message": "Unzureichende pool Liquidität",
+    "message": "Unzureichende pool Liquiditt",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
     ]
   },
   {
     "id": "addNewCurrencyMessage",
-    "message": "Klicken Sie auf der Seite Wallet auf die Schaltfläche Währung hinzufügen.",
+    "message": "Klicken Sie auf der Seite Wallet auf die Schaltflche Whrung hinzufgen.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
   },
   {
     "id": "checkTokenInTheSwapList",
-    "message": "Jetzt können Sie Ihr Token in der Liste sehen.",
+    "message": "Jetzt knnen Sie Ihr Token in der Liste sehen.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
   },
   {
     "id": "choseTokenStandard",
-    "message": "Wählte einen token-standard und klicken Sie auf die Schaltfläche weiter.",
+    "message": "Whlte einen token-standard und klicken Sie auf die Schaltflche weiter.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
   },
   {
     "id": "confirmTokenAddition",
-    "message": "Überprüfen Sie die Informationen und bestätigen Sie den Token-Zusatz.",
+    "message": "berprfen Sie die Informationen und besttigen Sie den Token-Zusatz.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
   },
   {
     "id": "createNewPoolInAggregates",
-    "message": "Wählen Sie eine der unterstützten Quellen aus und erstellen Sie dort einen neuen Pool mit Ihrem Token.",
+    "message": "Whlen Sie eine der untersttzten Quellen aus und erstellen Sie dort einen neuen Pool mit Ihrem Token.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
@@ -5689,35 +5689,35 @@
   },
   {
     "id": "howToAddToken",
-    "message": "So fügen Sie ein Token hinzu",
+    "message": "So fgen Sie ein Token hinzu",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
   },
   {
     "id": "ifYouDoNotSeeNewToken",
-    "message": "Sie können einige Token nicht umtauschen, da möglicherweise kein Liquiditätspool mit Ihrem Token verfügbar ist. Sie müssen ein neues erstellen, wenn Sie es austauschen möchten.",
+    "message": "Sie knnen einige Token nicht umtauschen, da mglicherweise kein Liquidittspool mit Ihrem Token verfgbar ist. Sie mssen ein neues erstellen, wenn Sie es austauschen mchten.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
   },
   {
     "id": "youWillSeeYourToken",
-    "message": "Nachdem Sie mit Ihrem Token einen Liquiditätspool ermittelt haben, steht dieser zum Umtausch zur Verfügung.",
+    "message": "Nachdem Sie mit Ihrem Token einen Liquidittspool ermittelt haben, steht dieser zum Umtausch zur Verfgung.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
     ]
   },
   {
     "id": "executeOrder",
-    "message": "Den Auftrag ausführen",
+    "message": "Den Auftrag ausfhren",
     "files": [
       "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
     ]
   },
   {
     "id": "limitOrderFillDescription",
-    "message": "Sie können nicht Ihr gesamtes Guthaben ausgeben. Geben Sie den Betrag von {sellToken} ein, den Sie ausgeben möchten.",
+    "message": "Sie knnen nicht Ihr gesamtes Guthaben ausgeben. Geben Sie den Betrag von {sellToken} ein, den Sie ausgeben mchten.",
     "files": [
       "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
     ]
@@ -5738,7 +5738,7 @@
   },
   {
     "id": "youCanSpend",
-    "message": "Sie können ausgeben",
+    "message": "Sie knnen ausgeben",
     "files": [
       "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
     ]
@@ -5752,25 +5752,25 @@
   },
   {
     "id": "customSlippageValueNotice",
-    "message": "Sie können einen benutzerdefinierten Schlupftoleranzwert in den erweiterten Einstellungen festlegen und es erneut versuchen"
+    "message": "Sie knnen einen benutzerdefinierten Schlupftoleranzwert in den erweiterten Einstellungen festlegen und es erneut versuchen"
   },
   {
     "id": "insufficientSlippage",
-    "message": "Unzureichender Schlupf. Versuche es zu erhöhen",
+    "message": "Unzureichender Schlupf. Versuche es zu erhhen",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
     ]
   },
   {
     "id": "notEnoughAssetsNotice",
-    "message": "Sie haben keine verfügbaren Assets für {networkName} zum Austauschen. Bitte ändern Sie das Netzwerk oder fügen Sie der Brieftasche ein benutzerdefiniertes Asset hinzu.",
+    "message": "Sie haben keine verfgbaren Assets fr {networkName} zum Austauschen. Bitte ndern Sie das Netzwerk oder fgen Sie der Brieftasche ein benutzerdefiniertes Asset hinzu.",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/index.tsx"
     ]
   },
   {
     "id": "disclaimerAbout1inch",
-    "message": "* Haftungsausschluss: Limit Orders werden durch ein 3rd 1inch Limit Order Protokoll bereitgestellt und sollten in der Beta berücksichtigt werden. Seien Sie vorsichtig und verwenden Sie auf eigene Gefahr.",
+    "message": "* Haftungsausschluss: Limit Orders werden durch ein 3rd 1inch Limit Order Protokoll bereitgestellt und sollten in der Beta bercksichtigt werden. Seien Sie vorsichtig und verwenden Sie auf eigene Gefahr.",
     "files": [
       "src/front/shared/components/modals/LimitOrder/ModalForm.tsx"
     ]
@@ -5784,14 +5784,14 @@
   },
   {
     "id": "chooseNetwork",
-    "message": "Wählen Sie Netzwerk",
+    "message": "Whlen Sie Netzwerk",
     "files": [
       "src/front/shared/components/modals/ConnectWalletModal/ConnectWalletModal.tsx"
     ]
   },
   {
     "id": "chooseWallet",
-    "message": "Brieftasche wählen",
+    "message": "Brieftasche whlen",
     "files": [
       "src/front/shared/components/modals/ConnectWalletModal/ConnectWalletModal.tsx"
     ]
@@ -5823,14 +5823,14 @@
   },
   {
     "id": "unknownSwapProblemHasOccurred",
-    "message": "Unbekanntes Problem ist aufgetreten. Wahrscheinlich können wir dieses Paar nicht austauschen",
+    "message": "Unbekanntes Problem ist aufgetreten. Wahrscheinlich knnen wir dieses Paar nicht austauschen",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
     ]
   },
   {
     "id": "invalidSlippagePercent",
-    "message": "Ungültige Schlupf Prozent",
+    "message": "Ungltige Schlupf Prozent",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
     ]
@@ -5866,21 +5866,21 @@
   },
   {
     "id": "liquidityPoolProblem",
-    "message": "Es gibt ein Problem mit Liquiditätspool. Versuchen Sie, mit einem Quellabschnitt auszutauschen",
+    "message": "Es gibt ein Problem mit Liquidittspool. Versuchen Sie, mit einem Quellabschnitt auszutauschen",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
     ]
   },
   {
     "id": "doNotHaveNativeCurrencyBalance",
-    "message": "Sie haben kein Guthaben in der Landeswährung, um die Transaktionsgebühr zu zahlen",
+    "message": "Sie haben kein Guthaben in der Landeswhrung, um die Transaktionsgebhr zu zahlen",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
     ]
   },
   {
     "id": "addLiquidity",
-    "message": "Liquidität hinzufügen",
+    "message": "Liquiditt hinzufgen",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Footer.tsx",
       "src/front/shared/pages/Exchange/QuickSwap/SourceActions.tsx"
@@ -5895,7 +5895,7 @@
   },
   {
     "id": "liquidityPairDoesNotExist",
-    "message": "Dieses Paar hat keine Liquidität. Sie können einen neuen erstellen und der erste Liquiditätsanbieter sein",
+    "message": "Dieses Paar hat keine Liquiditt. Sie knnen einen neuen erstellen und der erste Liquidittsanbieter sein",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
     ]
@@ -5944,7 +5944,7 @@
   },
   {
     "id": "aggregatorCannotUseThisNetwork",
-    "message": "Aggregator kann dieses Netz nicht nutzen. Bitte wählen Sie ein anderes",
+    "message": "Aggregator kann dieses Netz nicht nutzen. Bitte whlen Sie ein anderes",
     "files": [
       "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
     ]
@@ -5965,14 +5965,14 @@
   },
   {
     "id": "ShamirsSecretSave_BeginLater",
-    "message": "Ich werde später speichern",
+    "message": "Ich werde spter speichern",
     "files": [
       "src/front/shared/components/modals/ShamirsSecretSave/ShamirsSecretSave.tsx"
     ]
   },
   {
     "id": "ShamirsSecretSave_BeginNotice",
-    "message": "Jetzt zeigen wir Ihnen drei Geheimcodes.{br}Wenn Sie mindestens zwei davon verlieren, können wir Ihr Wallet nicht wiederherstellen",
+    "message": "Jetzt zeigen wir Ihnen drei Geheimcodes.{br}Wenn Sie mindestens zwei davon verlieren, knnen wir Ihr Wallet nicht wiederherstellen",
     "files": [
       "src/front/shared/components/modals/ShamirsSecretSave/ShamirsSecretSave.tsx"
     ]
@@ -6007,7 +6007,7 @@
   },
   {
     "id": "ShamirsSecretSave_ShowMnemonicNotice",
-    "message": "Speichern Sie diese Codes. Wenn Sie mindestens zwei davon verlieren, ist es nicht möglich, die Brieftasche wiederherzustellen",
+    "message": "Speichern Sie diese Codes. Wenn Sie mindestens zwei davon verlieren, ist es nicht mglich, die Brieftasche wiederherzustellen",
     "files": [
       "src/front/shared/components/modals/ShamirsSecretSave/ShamirsSecretSave.tsx"
     ]
@@ -6049,7 +6049,7 @@
   },
   {
     "id": "ImportKeys_RestoreShamirs_Tooltip",
-    "message": "Shamirs Secret-Sharing für mnemonische Codes",
+    "message": "Shamirs Secret-Sharing fr mnemonische Codes",
     "files": [
       "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
     ]
@@ -6070,7 +6070,7 @@
   },
   {
     "id": "RestoreWalletSelectMethod_SelectMethod",
-    "message": "Wählen Sie eine Wiederherstellungsmethode",
+    "message": "Whlen Sie eine Wiederherstellungsmethode",
     "files": [
       "src/front/shared/components/modals/RestoreWalletSelectMethod/RestoreWalletSelectMethod.tsx"
     ]
@@ -6084,7 +6084,7 @@
   },
   {
     "id": "RestoreWalletSelectMethod_UseMnemonic",
-    "message": "Erholen Sie sich mit 12 Wörtern",
+    "message": "Erholen Sie sich mit 12 Wrtern",
     "files": [
       "src/front/shared/components/modals/RestoreWalletSelectMethod/RestoreWalletSelectMethod.tsx"
     ]
@@ -6105,7 +6105,7 @@
   },
   {
     "id": "SaveWalletSelectMethod_SelectMethod",
-    "message": "Wählen Sie eine Methode",
+    "message": "Whlen Sie eine Methode",
     "files": [
       "src/front/shared/components/modals/SaveWalletSelectMethod/SaveWalletSelectMethod.tsx"
     ]
@@ -6119,7 +6119,7 @@
   },
   {
     "id": "SaveWalletSelectMethod_UseMnemonic",
-    "message": "Speichern Sie 12 Wörter",
+    "message": "Speichern Sie 12 Wrter",
     "files": [
       "src/front/shared/components/modals/SaveWalletSelectMethod/SaveWalletSelectMethod.tsx"
     ]
@@ -6175,7 +6175,7 @@
   },
   {
     "id": "Shamirs_Restory_ReadyNotice",
-    "message": "Jetzt können Sie BTC, ETH und andere Währungen hinzufügen",
+    "message": "Jetzt knnen Sie BTC, ETH und andere Whrungen hinzufgen",
     "files": [
       "src/front/shared/components/modals/ShamirsSecretRestory/ShamirsSecretRestory.tsx"
     ]

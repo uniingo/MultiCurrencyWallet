@@ -17,7 +17,7 @@ export default [
   'PHI_V2',
   'GHOST',
   'NEXT',
-  '{ETH}SWAP',
+  '{ETH}UNIINGO',
   '{ETH}HDP',
   '{ETH}USDT',
   '{ETH}MSK',

@@ -32,7 +32,7 @@
   },
   {
     "id": "menu.CreateWallet",
-    "message": "Creëer wallet",
+    "message": "Creer wallet",
     "files": [
       "src/front/shared/components/Header/config.tsx",
       "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx",
@@ -290,7 +290,7 @@
   },
   {
     "id": "WithdrawButton32",
-    "message": "Når du klikker på denne knap, vises i marken et beløb{br} svarende til din saldo minus minearbejdskommissionen",
+    "message": "Nr du klikker p denne knap, vises i marken et belb{br} svarende til din saldo minus minearbejdskommissionen",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
       "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
@@ -343,7 +343,7 @@
   },
   {
     "id": "orders102",
-    "message": "Beløp",
+    "message": "Belp",
     "files": [
       "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx",
       "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx",
@@ -362,7 +362,7 @@
   },
   {
     "id": "orders128",
-    "message": "Creёer aanbod",
+    "message": "Creer aanbod",
     "files": [
       "src/front/shared/pages/Exchange/AtomicSwap.tsx"
     ]
@@ -814,7 +814,7 @@
   },
   {
     "id": "Withdrow170",
-    "message": "Det maksimale beløb, du kan sende, er {allowedBalance} {currency}",
+    "message": "Det maksimale belb, du kan sende, er {allowedBalance} {currency}",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
     ]
@@ -835,7 +835,7 @@
   },
   {
     "id": "orders1381",
-    "message": "{buyCurrency} 🔁 {sellCurrency}",
+    "message": "{buyCurrency}  {sellCurrency}",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
     ]
@@ -1392,7 +1392,7 @@
   },
   {
     "id": "thirdStep",
-    "message": "Оn this step crypto is transferred from {br}the contract to your wallet and to the wallet {br} of your counterparty {br}",
+    "message": "n this step crypto is transferred from {br}the contract to your wallet and to the wallet {br} of your counterparty {br}",
     "files": [
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/ThirdStep.tsx",
       "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/ThirdStep.tsx"
@@ -1407,7 +1407,7 @@
   },
   {
     "id": "multiSignJoinLink",
-    "message": "Creёer BTC-Multisign wallet",
+    "message": "Creer BTC-Multisign wallet",
     "files": [
       "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
     ]
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "createWalletButton3",
-    "message": "Creëer wallet",
+    "message": "Creer wallet",
     "files": [
       "src/front/shared/pages/CreateWallet/Steps/SecondStep.tsx"
     ]
@@ -1549,7 +1549,7 @@
   },
   {
     "id": "HowItWorks26",
-    "message": "2. Click “Exchange”",
+    "message": "2. Click Exchange",
     "files": [
       "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
     ]
@@ -1844,7 +1844,7 @@
   },
   {
     "id": "partial-tour-7",
-    "message": "Druk op deze knop om de Orderboek pagina te bezoeken. De orders voor specifieke valuta's worden hier getoond. U kunt ook zelfeen order creëren in de Orderboek pagina.",
+    "message": "Druk op deze knop om de Orderboek pagina te bezoeken. De orders voor specifieke valuta's worden hier getoond. U kunt ook zelfeen order creren in de Orderboek pagina.",
     "files": [
       "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
     ]
@@ -2210,14 +2210,14 @@
     ]
   },
   {
-    "id": "WalletRow_Menu_Сopy",
+    "id": "WalletRow_Menu_opy",
     "message": "Kopieer Adres",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
   },
   {
-    "id": "WalletRow_Menu_Сopy_PrivateKey",
+    "id": "WalletRow_Menu_opy_PrivateKey",
     "message": "Kopieer Prive Sleutel",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
@@ -2777,7 +2777,7 @@
   },
   {
     "id": "ImportKeys_RestoreMnemonic_Tooltip_withBalance",
-    "message": "Alstubliefd, wees voorzichtig! Als je eenmaal een nieuwe seed geïmporteerd hebt zal je balans gereset worden. Bewaar uw huidige valuta in een andere wallet.",
+    "message": "Alstubliefd, wees voorzichtig! Als je eenmaal een nieuwe seed gemporteerd hebt zal je balans gereset worden. Bewaar uw huidige valuta in een andere wallet.",
     "files": [
       "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx",
       "src/front/shared/pages/CreateWallet/CreateWallet.tsx",
@@ -2843,7 +2843,7 @@
   },
   {
     "id": "MainFAQ2_content2",
-    "message": "OPMERKING: u kunt eenvoudig de ‘miners fees’ die voor elke respectievelijke munt zijn vereist, controleren door ze eenvoudigweg te googlen.",
+    "message": "OPMERKING: u kunt eenvoudig de miners fees die voor elke respectievelijke munt zijn vereist, controleren door ze eenvoudigweg te googlen.",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
@@ -2857,7 +2857,7 @@
   },
   {
     "id": "MainFAQ3_content",
-    "message": "Blockchain-vergoedingen zijn afhankelijk van verschillende factoren, waaronder netwerkcongestie en transactiegrootte (beïnvloed bij het converteren van cryptovaluta van meerdere inputs zoals kraanopbrengsten of andere microtransacties).",
+    "message": "Blockchain-vergoedingen zijn afhankelijk van verschillende factoren, waaronder netwerkcongestie en transactiegrootte (benvloed bij het converteren van cryptovaluta van meerdere inputs zoals kraanopbrengsten of andere microtransacties).",
     "files": [
       "src/front/shared/components/FAQ/FAQ.tsx"
     ]
@@ -3615,7 +3615,7 @@
   },
   {
     "id": "RegisterPINProtectedBTC_LabelYourMnemonic",
-    "message": "Ваша секретная фраза",
+    "message": "  ",
     "files": [
       "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
     ]
@@ -3727,7 +3727,7 @@
   },
   {
     "id": "privateKeyCurrency",
-    "message": "Uw {cur} privésleutel",
+    "message": "Uw {cur} privsleutel",
     "files": [
       "src/front/shared/components/modals/PrivateKeysModal/PrivateKeysModal.tsx"
     ]
@@ -3826,7 +3826,7 @@
   },
   {
     "id": "AlertModalcreateWallet",
-    "message": "Creëer wallet",
+    "message": "Creer wallet",
     "files": [
       "src/front/shared/components/modals/AlertWindow/index.tsx"
     ]
@@ -4213,14 +4213,14 @@
   },
   {
     "id": "WTH276",
-    "message": "Beløbet må ikke overstige din{br} nuværende saldo minus minegebyr",
+    "message": "Belbet m ikke overstige din{br} nuvrende saldo minus minegebyr",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
     ]
   },
   {
     "id": "Comment",
-    "message": "Сommentaar",
+    "message": "ommentaar",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
     ]
@@ -4301,7 +4301,7 @@
   },
   {
     "id": "localStorageUserNotification",
-    "message": "✔️ Deze gegevens bevatten niet uw privésleutels",
+    "message": " Deze gegevens bevatten niet uw privsleutels",
     "files": [
       "src/front/shared/pages/LocalStorage/LocalStorage.tsx"
     ]
@@ -4465,7 +4465,7 @@
   },
   {
     "id": "OrderBookOffersNoteUnderLoader",
-    "message": "det kan ta et øyeblikk",
+    "message": "det kan ta et yeblikk",
     "files": [
       "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
     ]
@@ -4514,7 +4514,7 @@
   },
   {
     "id": "WalletRowNodeIsDownTooltipMessage",
-    "message": "Du kan ikke udføre transaktioner",
+    "message": "Du kan ikke udfre transaktioner",
     "files": [
       "src/front/shared/pages/Wallet/Row/Row.tsx"
     ]
@@ -4775,21 +4775,21 @@
   },
   {
     "id": "FeeRadiosSpeedTypeDescriptionFast",
-    "message": "Et rullende gennemsnit af gebyret for transaktioner, der skal bekræftes inden for 1 til 2 blokke.",
+    "message": "Et rullende gennemsnit af gebyret for transaktioner, der skal bekrftes inden for 1 til 2 blokke.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
     ]
   },
   {
     "id": "FeeRadiosSpeedTypeDescriptionMedium",
-    "message": "Et rullende gennemsnit af gebyret for transaktioner, der skal bekræftes inden for 3 til 6 blokke.",
+    "message": "Et rullende gennemsnit af gebyret for transaktioner, der skal bekrftes inden for 3 til 6 blokke.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
     ]
   },
   {
     "id": "FeeRadiosSpeedTypeDescriptionSlow",
-    "message": "Et rullende gennemsnit af gebyret for transaktioner, der skal bekræftes i 7 eller flere blokke.",
+    "message": "Et rullende gennemsnit af gebyret for transaktioner, der skal bekrftes i 7 eller flere blokke.",
     "files": [
       "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
     ]
@@ -4922,7 +4922,7 @@
   },
   {
     "id": "MM_FAQ_ItemTitle7",
-    "message": "Waarom heb ik {token} nodig? Ik ben alleen geïnteresseerd in het verdienen van BTC.",
+    "message": "Waarom heb ik {token} nodig? Ik ben alleen genteresseerd in het verdienen van BTC.",
     "files": [
       "src/front/shared/pages/Marketmaker/FAQ.tsx"
     ]
@@ -5006,67 +5006,67 @@
   },
   {
     "id": "MM_Choose_Farming_Body1",
-    "message": "Получайте дополнительную награду в SWAP токенах, заморозив LP токены."
+    "message": "    UNIINGO ,  LP ."
   },
   {
     "id": "MM_Choose_Farming_Button",
-    "message": "Начать фарминг"
+    "message": " "
   },
   {
     "id": "MM_Choose_Farming_Title",
-    "message": "Фарминг"
+    "message": ""
   },
   {
     "id": "MM_Choose_InBrowser_Body1",
-    "message": "Подходит для того, что бы попробовать."
+    "message": "  ,   ."
   },
   {
     "id": "MM_Choose_InBrowser_Body2",
-    "message": "Если вы закроете браузер, вы перестанете зарабатывать."
+    "message": "   ,   ."
   },
   {
     "id": "MM_Choose_InBrowser_Button",
-    "message": "Начать в браузере"
+    "message": "  "
   },
   {
     "id": "MM_Choose_InBrowser_Title",
-    "message": "Маркетмейкер в браузере"
+    "message": "  "
   },
   {
     "id": "MM_Choose_Server_Body1",
-    "message": "Подходит для продвинутых пользователей."
+    "message": "   ."
   },
   {
     "id": "MM_Choose_Server_Body2",
-    "message": "Требуется сервер для разворачивания образа Docker."
+    "message": "     Docker."
   },
   {
     "id": "MM_Choose_Server_Button",
-    "message": "Читать инструкцию"
+    "message": " "
   },
   {
     "id": "MM_Choose_Server_Title",
-    "message": "Маркетмейкер-сервер"
+    "message": "-"
   },
   {
     "id": "MM_Choose_Title",
-    "message": "Выберите способ"
+    "message": " "
   },
   {
     "id": "MM_Choose_Uniswap_Body1",
-    "message": "Подходит для продвинутых пользователей."
+    "message": "   ."
   },
   {
     "id": "MM_Choose_Uniswap_Body2",
-    "message": "Зарабатывайте когда другие продают или покупают SWAP токены."
+    "message": "      UNIINGO ."
   },
   {
     "id": "MM_Choose_Uniswap_Button",
-    "message": "Создать пул"
+    "message": " "
   },
   {
     "id": "MM_Choose_Uniswap_Title",
-    "message": "Создайте uniswap-пул SWAP/ETH"
+    "message": " uniswap- UNIINGO/ETH"
   },
   {
     "id": "MM_Promo_Title",
@@ -5279,7 +5279,7 @@
   },
   {
     "id": "MM_whatIsWBTCTooltip2",
-    "message": "{token} is gemaakt om {utxoTitle}-houders in staat te stellen deel te nemen aan apps voor gedecentraliseerde financiën (\"DeFi\") die populair zijn op {blockchainName}.",
+    "message": "{token} is gemaakt om {utxoTitle}-houders in staat te stellen deel te nemen aan apps voor gedecentraliseerde financin (\"DeFi\") die populair zijn op {blockchainName}.",
     "files": [
       "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
     ]
@@ -5378,7 +5378,7 @@
   },
   {
     "id": "bankCardButtonDescription",
-    "message": "In het modale venster, je moet gaan door middel van verschillende stappen om fiat fondsen in te wisselen voor de. Selecteer {buyCurrency} in het venster en geef het adres van uw portemonnee (u kunt het hieronder kopiëren). Wacht tot het geld op uw adres is bijgeschreven. Dan kunt u tekenen kopen met behulp van het.",
+    "message": "In het modale venster, je moet gaan door middel van verschillende stappen om fiat fondsen in te wisselen voor de. Selecteer {buyCurrency} in het venster en geef het adres van uw portemonnee (u kunt het hieronder kopiren). Wacht tot het geld op uw adres is bijgeschreven. Dan kunt u tekenen kopen met behulp van het.",
     "files": [
       "src/front/shared/components/Header/WidgetTours/QuickSwapFormTour.tsx",
       "src/front/shared/pages/Exchange/QuickSwap/InputForm.tsx"
@@ -6013,7 +6013,7 @@
   },
   {
     "id": "ShamirsSecretSave_UseCopy",
-    "message": "Kopiëren",
+    "message": "Kopiren",
     "files": [
       "src/front/shared/components/modals/ShamirsSecretSave/ShamirsSecretSave.tsx"
     ]

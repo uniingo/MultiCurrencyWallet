@@ -139,12 +139,12 @@ window.buildOptions = {
     sell: 'btc',
   },
   /*
-    Порядок валют на странице создания кошелька
-    CUSTOM_ERC20, CUSTOM_BEP20, CUSTOM_ERC20MATIC - Добавление пользовательского токена (при условии addCustomERC20 = true)
-    {ERC20}UNI - Токен в сети Эфира
-    {BEP20}TOKENSYMBOL - Токен в сети бинанс
-    {ERC20MATIC}TOKENSYMBOL - Токен в сети матик
-    Все остальные коины, которые не указаны, будут помещены в конец списка в произвольном порядке
+         
+    CUSTOM_ERC20, CUSTOM_BEP20, CUSTOM_ERC20MATIC -    (  addCustomERC20 = true)
+    {ERC20}UNI -    
+    {BEP20}TOKENSYMBOL -    
+    {ERC20MATIC}TOKENSYMBOL -    
+      ,   ,        
   */
   createWalletCoinsOrder: [
     '{ETH}UNI',

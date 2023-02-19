@@ -10,7 +10,7 @@ import ownBuffer from './ownBuffer'
 export default (webpackConfig) => {
   webpackConfig.mode = 'production'
 
-  // `default` - через BUILD_TYPE Не указано, локальные, полные и билды теста
+  // `default` -  BUILD_TYPE  , ,    
   const hashPrefix = (process && process.env && process.env.BUILD_TYPE) ? process.env.BUILD_TYPE : `default`
 
   webpackConfig.output = {

@@ -1,10 +1,10 @@
 {
   "name": "swap.online",
   "version": "1.0.422",
-  "description": "swaponline.io",
+  "description": "uniingo.xyz",
   "keywords": [],
   "private": true,
-  "homepage": "https://swaponline.io",
+  "homepage": "https://uniingo.xyz",
   "license": "MIT",
   "main": "./src/front/bin/server",
   "scripts": {

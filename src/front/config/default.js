@@ -13,7 +13,7 @@ const config = {
   paths: {
     root: (file = '') => path.join(rootPath, file),
     base: (file = '') => path.join(basePath, file),
-    core: (file = '') => process.env.SWAP_CORE_PATH ? path.join(process.env.SWAP_CORE_PATH, file) : path.join(basePath, 'src', 'core', file),
+    core: (file = '') => process.env.UNIINGO_CORE_PATH ? path.join(process.env.UNIINGO_CORE_PATH, file) : path.join(basePath, 'src', 'core', file),
     common: (file = '') => path.join(basePath, 'src', 'common', file),
     front: (file = '') => path.join(basePath, 'src', 'front', file),
     shared: (file = '') => path.join(basePath, 'src', 'front', 'shared', file),

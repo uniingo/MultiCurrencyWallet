@@ -138,7 +138,7 @@ window.buildOptions = {
   // ownTokens: true, // Will be inited from window.widgetEvmLikeTokens
   // addCustomTokens: true, // Allow user add custom evm like tokens
   // invoiceEnabled: true, // Allow create invoices
-  // hideShowPrivateKey: true, // Hide 'Copy Private Key' Menu item, default false, inited also from window.SWAP_HIDE_EXPORT_PRIVATEKEY
+  // hideShowPrivateKey: true, // Hide 'Copy Private Key' Menu item, default false, inited also from window.UNIINGO_HIDE_EXPORT_PRIVATEKEY
   showWalletBanners: true, // Allow to see banners
   showHowItsWork: true, // Can be inited from window.showHowItWorksOnExchangePage
   // inited from window.EXCHANGE_DISABLED

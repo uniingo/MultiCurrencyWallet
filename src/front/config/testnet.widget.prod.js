@@ -4,7 +4,7 @@ import moment from 'moment-with-locales-es6'
 
 
 /*
-Only SWAP token will be... clean other
+Only UNIINGO token will be... clean other
 */
 const newERC20 = {}
 newERC20.swap = config.erc20.swap

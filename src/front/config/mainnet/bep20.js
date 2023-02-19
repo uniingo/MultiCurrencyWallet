@@ -1,8 +1,8 @@
 export default {
   swap: {
-    address: '0x92648e4537cdfa1ee743a244465a31aa034b1ce8',
+    address: '0x17C3f876922926c80221aeAEfE4f6e11d62Ccaf7',
     decimals: 18,
-    fullName: 'SWAP',
+    fullName: 'UNIINGO',
     canSwap: true,
   },
   btcb: {

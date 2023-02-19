@@ -8,7 +8,7 @@ Alexander / SwapOnline
 
 # Your email / Twitter / Telegram *
 
-team@swaponline.io / SwapOnlineTeam / @swaponline | @sashanoxon
+support@uniingo.xyz/ uniingo / @uniingo_unii 
 
 
 # Location *

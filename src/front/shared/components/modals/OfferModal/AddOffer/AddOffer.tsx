@@ -666,7 +666,7 @@ export default class AddOffer extends Component<any, any> {
                 <span>
                   <FormattedMessage id="TurboSwap_Title" defaultMessage="Turbo swap" />
                   &nbsp;
-                  <a href="https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/TURBO_SWAPS.md" target="_blank">(?)</a>
+                  <a href="https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/TURBO_SWAPS.md" target="_blank">(?)</a>
                 </span>
               </div>
             </div>

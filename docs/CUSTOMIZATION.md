@@ -121,13 +121,13 @@ window.buildOptions = {
 }
 ```
 
-Example: [swaponline.github.io.js](https://github.com/swaponline/MultiCurrencyWallet/blob/master/src/front/externalConfigs/swaponline.github.io.js#L43)
+Example: [swaponline.github.io.js](https://github.com/uniingo/MultiCurrencyWallet/blob/master/src/front/externalConfigs/uniingo.github.io.js#L43)
 
 
 ## How to update your version (fork) to latest version
 
 0. Make backup and `git push` all your changes to your repository
-1. go here https://github.com/swaponline/MultiCurrencyWallet/compare?expand=1 , click <kbd>Compare across forks</kbd>
+1. go here https://github.com/uniingo/MultiCurrencyWallet/compare?expand=1 , click <kbd>Compare across forks</kbd>
 2. select your repository in "base branch" (left)
 3. click "Create pull request" (enter any title)
 4. click "Merge pull request"

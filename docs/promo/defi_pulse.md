@@ -7,16 +7,16 @@
 
 # Please provide a link to your website
 
-- https://swaponline.io
+- https://uniingo.xyz
 
 # What is your project twitter handle?
 
-- https://twitter.com/SwapOnlineTeam
+- https://twitter.com/uniingo_unii
 
 # Please provide link to project's github repo or whitepaper. Feel free to give links to all resources associated with project
 
-- https://github.com/swaponline/MultiCurrencyWallet
-- https://t.me/swaponline
+- https://github.com/uniingo/MultiCurrencyWallet
+- https://t.me/uniingo
 
 # Describe your company in 1-2 sentence
 
@@ -42,15 +42,15 @@
 
 # Please provide technical leads email
 
-- team@swaponline.io
+- support@uniingo.xyz
 
 # Please provide the technical leads or relevant team member Discord username (including the #)
 
-- https://discord.gg/U26baahb
+- https://discord.gg/
 
 # Have you read the DeFi List overview and guidelines document? Do you agree to add the DeFi List by DeFi Pulse badge to your website?
 
-https://docs.google.com/document/d/1q06oa9QeAEPz1RE6eLjOw191v_M0fAAImCSz3rLzSzE/edit
+https://docs.google.com/document/d//edit
 
 - Yes
 
@@ -68,7 +68,7 @@ https://docs.google.com/document/d/1q06oa9QeAEPz1RE6eLjOw191v_M0fAAImCSz3rLzSzE/
 
 # Please provide a link to your audit report or community audit review
 
-- https://medium.com/swaponline/technical-audit-of-swap-core-is-finished-successfully-65a67bc5f58a
+- https://medium.com/uniingo/technical-audit-of-swap-core-is-finished-successfully-65a67bc5f58a
 
 # Please list the chain(s) your project is built on
 

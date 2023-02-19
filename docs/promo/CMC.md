@@ -8,7 +8,7 @@ Descr: Заявка на листинг токена SWAP на коинмарк�
 
 Рекомендации по заполнению формы
 # 1 Your email address
-noxon@swaponline.io
+support@uniingo.xyz
 
 # 2 Subject Field (Please adhere to the format):  
 >[Project's full name] - [Symbol] - [Request, e.g. Add Market, Add cryptoasset/exchange, Update cryptoasset/exchange, update supply]
@@ -184,7 +184,7 @@ TODO
 # 14 Team/Backers/Investors
 > Provide a list of key employees, investors, and advisors. Describe their core competencies and past experience/achievements, and explain their involvement in your project. Where possible, provide evidence/links for verification.
 
-https://github.com/swaponline/MultiCurrencyWallet/graphs/contributors
+https://github.com/uniingo/MultiCurrencyWallet/graphs/contributors
 
 ```
 We are a team of 5 developers: 
@@ -219,10 +219,10 @@ Russia
 TODO проверить кондишены и тп
 
 # 19 Website 1
-https://swap.io/
+https://uniingo.xyz/
 
 # 17 Website 2 (Optional)(optional)
-https://swaponline.io/
+https://uniingo.xyz/
 
 # 18 Annex A - Rich List & Reserve Addresses (Mandatory for Circulating Supply/Ranking)(optional)
 >Paste the URL of your completed Annex A Google Sheet here. Please refer to the instructions in Cell A1 of this link and ensure that your submission is in the CORRECT format: https://docs.google.com/spreadsheets/d/1ON2o9fZtdj6aa_uaT7ALtGx1VxFnIDUi8-uS-fWji0o/edit#gid=1181839735.

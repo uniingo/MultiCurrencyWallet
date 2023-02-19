@@ -1,8 +1,8 @@
 {
-  "name": "swaponline mcw", 
+  "name": "uniingo mcw", 
   "description": "multicurrencty mm bot",
-  "repository": "https://github.com/swaponline/MultiCurrencyWallet/",
-  "logo": "https://swaponline.github.io/assets/favicon.ico",
+  "repository": "https://github.com/uniingo/MultiCurrencyWallet/",
+  "logo": "https://uniingo.github.io/assets/favicon.ico",
   "keywords": ["wallet", "ethereum", "bitcoin", "crypto"],
   "env":{
     "SECRET_PHRASE": {

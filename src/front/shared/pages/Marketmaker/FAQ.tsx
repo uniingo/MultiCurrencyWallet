@@ -102,7 +102,7 @@ class FAQ extends React.Component {
                 </div>
                 <div>
                   {'- '}
-                  <a href="https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/RISKS.md" target="_blank">
+                  <a href="https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/RISKS.md" target="_blank">
                     <FormattedMessage
                       id="MM_FAQ_ItemBody2-5"
                       defaultMessage="Risk Notification"

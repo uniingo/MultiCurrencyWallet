@@ -4,12 +4,12 @@
 1. install docker and docker-compose https://docs.docker.com/engine/install/ https://docs.docker.com/compose/install/
 2. run bot script
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/swaponline/MultiCurrencyWallet/master/scripts/startBot.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/uniingo/MultiCurrencyWallet/master/scripts/startBot.sh)
 ```
 
 ## Launch using Node.js
 ```
-git clone https://github.com/swaponline/MultiCurrencyWallet.git
+git clone https://github.com/uniingo/MultiCurrencyWallet.git
 cd MultiCurrencyWallet
 npm i 
 npm run marketmaker:testnet SECRET_PHRASE="asd asd asd" SPREAD="5"
@@ -30,7 +30,7 @@ Edit files:
 
 ## Enable telegram notifications
 1. contact @get_id_bot to get your id
-2. say "hello" to this bot https://t.me/swaponlinebot
+2. say "hello" to this bot https://t.me/uniingo
 3. set env variable
 ```
 TELEGRAM_CHATID = 111111 //your id

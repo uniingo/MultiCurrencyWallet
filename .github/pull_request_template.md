@@ -1,6 +1,6 @@
 ## Checklist
 
-- [ ] I have read the [CONTRIBUTING](https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/CONTRIBUTING.md) guide
+- [ ] I have read the [CONTRIBUTING](https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/CONTRIBUTING.md) guide
 - [ ] Good naming (as clear and simple as possible)
 - [ ] Correct behavior if external API endpoints are down, return 404, 504 (or no answer), 401 errors (ddos simulation)
 - [ ] I tested desktop/mobile resolution

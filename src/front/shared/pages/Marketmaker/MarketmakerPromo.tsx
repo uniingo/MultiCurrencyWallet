@@ -62,7 +62,7 @@ export default class MarketmakerPromo extends React.Component<{}, ComponentState
 
   // onSelectServer() {
   //   feedback.marketmaking.selected('server')
-  //   window.open('https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/MARKETMAKER.md')
+  //   window.open('https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/MARKETMAKER.md')
   // }
 
   // onSelectPool() {
@@ -128,7 +128,7 @@ export default class MarketmakerPromo extends React.Component<{}, ComponentState
             <a
               styleName="devVersionLink"
               target="_blank"
-              href="https://github.com/swaponline/MultiCurrencyWallet/actions/workflows/chromeExtention.yml"
+              href="https://github.com/uniingo/MultiCurrencyWallet/actions/workflows/chromeExtention.yml"
             >
               <FormattedMessage
                 id="MM_InstallDevExtention"

@@ -264,16 +264,16 @@ if you're adding a new token standard
 
 ### GHOST
 
-- https://github.com/swaponline/MultiCurrencyWallet/pull/2891
-- https://github.com/swaponline/swap.core/pull/500
-- https://github.com/swaponline/swap.core/pull/501
+- https://github.com/uniingo/MultiCurrencyWallet/pull/2891
+- https://github.com/uniingo/swap.core/pull/500
+- https://github.com/uniingo/swap.core/pull/501
 
 
 ### NEXT.coin
 
-- [Task + PRs](https://github.com/swaponline/swap.core/issues/504)
+- [Task + PRs](https://github.com/uniingo/swap.core/issues/504)
 
 ### Matic token with ERC20 Token on Polygon(Matic)
 
-- [Task](https://github.com/swaponline/MultiCurrencyWallet/issues/4448)
-- [Pull request](https://github.com/swaponline/MultiCurrencyWallet/pull/4496)
+- [Task](https://github.com/uniingo/MultiCurrencyWallet/issues/4448)
+- [Pull request](https://github.com/uniingo/MultiCurrencyWallet/pull/4496)

@@ -1,7 +1,7 @@
 # Onboarding plan for developer
 
 ## TLDR: I want to do something!
-1. Choose one of the [`good first issues`](https://github.com/swaponline/MultiCurrencyWallet/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) (or just [`issues`](https://github.com/swaponline/MultiCurrencyWallet/issues)) and click `assign yourself`
+1. Choose one of the [`good first issues`](https://github.com/uniingo/MultiCurrencyWallet/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) (or just [`issues`](https://github.com/swaponline/MultiCurrencyWallet/issues)) and click `assign yourself`
 2. Do it! We are waiting for pull requests.
 
 ## More detailed plan
@@ -15,24 +15,24 @@
 - Create an invoice and pay using another wallet (using incognito mode)
 
 ### 2. Fast start
-- Improve something: take a simple task / improve docs / [List of tasks for newcomers](https://github.com/swaponline/MultiCurrencyWallet/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Improve something: take a simple task / improve docs / [List of tasks for newcomers](https://github.com/uniingo/MultiCurrencyWallet/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Create the first PR
 
 ### 3. More info
 - Read the [`docs`](/docs)
-- Explore Issue Tag List https://github.com/swaponline/MultiCurrencyWallet/labels
-- Check out insights and current developers https://github.com/swaponline/MultiCurrencyWallet/pulse
+- Explore Issue Tag List https://github.com/uniingo/MultiCurrencyWallet/labels
+- Check out insights and current developers https://github.com/uniingo/MultiCurrencyWallet/pulse
 - Check out the modules listed in `package / json` (https://www.npmjs.com/)
 - Get acquainted with the structure and content of project files
-- https://support.swaponline.io/
+- https://support.uniingo.xyz/
 - Check out public resources (see `helpers / links`)
-- Go through the wiki for clients https://wiki.swaponline.io/
+- Go through the wiki for clients https://wiki.uniingo.xyz/
 - Examine the documentation for the client
 
 ### 4. Track current state
-- Investigate open issues https://github.com/swaponline/MultiCurrencyWallet/issues
-- Look into current PRs (https://github.com/swaponline/MultiCurrencyWallet/pulls)
-- Look into the current graph (https://github.com/swaponline/MultiCurrencyWallet/network)
+- Investigate open issues https://github.com/uniingo/MultiCurrencyWallet/issues
+- Look into current PRs (https://github.com/uniingo/MultiCurrencyWallet/pulls)
+- Look into the current graph (https://github.com/uniingo/MultiCurrencyWallet/network)
 
 ### 5. Deep insight
 - Raise a bot locally and exchange with it using [`/docs/BOT.md`](/docs/BOT.md)

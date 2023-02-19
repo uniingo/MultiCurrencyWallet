@@ -5,4 +5,4 @@
 
 | Site                        | Status |
 |-----------------------------|-----------------|
-|  coinmarcetcap.com https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/promo/CMC.md        | New           |
+|  coinmarcetcap.com https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/promo/CMC.md        | New           |

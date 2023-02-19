@@ -77,7 +77,7 @@ function TokenInstruction(props) {
 
           <a
             styleName="liquiditySourcesLink"
-            href="https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/LIQUIDITY_SOURCES.md"
+            href="https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/LIQUIDITY_SOURCES.md"
             target="_blank"
           >
             <FormattedMessage id="detailedInformation" defaultMessage="Detailed information" />

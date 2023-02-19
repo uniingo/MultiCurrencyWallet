@@ -32,7 +32,7 @@ https://farm.onout.org/ stake SWAP earn BNB here
 
 - Team: 25 000 tokens were distributed among the team based on 1 SWAP ~ 1 USD
 - Bounty: 25 000 tokens were distributed among the bounty participants, for the very simple actions (reposts, etc..)
-- Developers program https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/CONTRIBUTING.md
+- Developers program https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/CONTRIBUTING.md
 
 50 000 SWAP tokens have been moved to the Binance Smart Chain:
 - https://omni.gnosischain.com/bridge

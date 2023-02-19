@@ -65,7 +65,7 @@ cp -r build-mainnet $SCRIPT_PATH/mainnet$PR/MultiCurrencyWallet/build-testnet
 $CURL_CMD "https://noxon.wpmix.net/counter.php?msg=testnet$PR.swaponline.site mainnet$PR.swaponline.site  $last_commit rebuilded&todevs=1"
 
 
-$CURL_CMD -s -H "Authorization: token " -X POST -d '{"body": "commit '"$last_commit"' rebuilded https://testnet'"$PR"'.swaponline.site https://mainnet'"$PR"'.swaponline.site "}' "https://api.github.com/repos/swaponline/MultiCurrencyWallet/issues/$PR/comments"
+$CURL_CMD -s -H "Authorization: token " -X POST -d '{"body": "commit '"$last_commit"' rebuilded https://testnet'"$PR"'.swaponline.site https://mainnet'"$PR"'.swaponline.site "}' "https://api.github.com/repos/uniingo/MultiCurrencyWallet/issues/$PR/comments"
 
 # rebuild testnet also
 #cd /var/www/ropsten.swaponline.io/MultiCurrencyWallet && git pull && npm i && npm run build:testnet https://ropsten.swaponline.io/
@@ -147,7 +147,7 @@ $CURL_CMD "https://noxon.wpmix.net/counter.php?msg=testnet$PR.swaponline.site bu
 #cp -r build-mainnet $SCRIPT_PATH/mainnet$PR/MultiCurrencyWallet/build-testnet
 
 $CURL_CMD "https://noxon.wpmix.net/counter.php?msg=mainnet$PR.swaponline.site builded&todevs=1"
-$CURL_CMD -s -H "Authorization: token " -X POST -d '{"body": "builded https://testnet'"$PR"'.swaponline.site ;"}' "https://api.github.com/repos/swaponline/MultiCurrencyWallet/issues/$PR/comments"
+$CURL_CMD -s -H "Authorization: token " -X POST -d '{"body": "builded https://testnet'"$PR"'.swaponline.site ;"}' "https://api.github.com/repos/uniingo/MultiCurrencyWallet/issues/$PR/comments"
 
 echo "-----------------"  >> /var/log/deploy.log
 echo "Build at $(/bin/date +%H\:%M\:%S\ %d\.%m\.%Y):"  >> /var/log/deploy.log

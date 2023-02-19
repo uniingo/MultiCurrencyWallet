@@ -1779,7 +1779,7 @@ class Exchange extends PureComponent<ExchangeProps, ExchangeState> {
       turboSwap.isAssetSupported(buyCoin) &&
       turboSwap.isAssetSupported(sellCoin) &&
       // temporarily: no external addresses support at the turboswaps-alpha stage
-      // see https://github.com/swaponline/MultiCurrencyWallet/issues/3875
+      // see https://github.com/uniingo/MultiCurrencyWallet/issues/3875
       fromAddress.type === AddressType.Internal &&
       toAddress.type === AddressType.Internal
     )
@@ -1973,7 +1973,7 @@ class Exchange extends PureComponent<ExchangeProps, ExchangeState> {
                   <span>
                     <FormattedMessage id="TurboSwap_Title" defaultMessage="Turbo swap" />
                     &nbsp;
-                    <a href="https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/TURBO_SWAPS.md" target="_blank">(?)</a>
+                    <a href="https://github.com/uniingo/MultiCurrencyWallet/blob/master/docs/TURBO_SWAPS.md" target="_blank">(?)</a>
                   </span>
                 </div>
               </div>
